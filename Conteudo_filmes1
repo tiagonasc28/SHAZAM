@@ -7,6 +7,14 @@
 </tem>
 
 <item>
+<title>teste</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OxQbRABlcwPsnxpJWUX6vpHLSDzSN2Re/view?usp=drivesdk$$lsname=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
 <title></title>
 <thumbnail></thumbnail>
 <link></link>
