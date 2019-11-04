@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR gold]FILMES![/COLOR]</name>
+<name>[COLOR firebrick]FILMES![/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/Conteudo_filmes</externallink>
 <fanart></fanart>
@@ -12,7 +12,7 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]SERIES![/COLOR]</name>
+<name>[COLOR firebrick]SÉRIES![/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
