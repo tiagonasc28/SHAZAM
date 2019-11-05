@@ -1,13 +1,11 @@
-<channels>
-<channel>
+<item>
 <name>[COLOR gold]Altered Carbon[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/AisK4uFsnwwmMkSynFpNl0VeGR.jpg</thumbnail>
-<externallink></externallink>
+<link></link>
 <fanart>https://image.tmdb.org/t/p/original/xETbCo8l06poxFUgbtaUeKmLadz.jpg</fanart>
 <info>[B]Sinopse[/B]
 Após 250 anos no gelo, ele retorna em um novo corpo com uma missão: solucionar um complexo mistério e conquistar sua liberdade.</info>
-</channel>
-</channels>
+</item>
 
 <channels>
 <channel>
