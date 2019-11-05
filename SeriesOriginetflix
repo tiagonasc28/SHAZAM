@@ -1,18 +1,21 @@
-<item>
-<title>[COLOR gold]Altered Carbon[/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR gold]Altered Carbon![/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/AisK4uFsnwwmMkSynFpNl0VeGR.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/AlteredCarbonSeasons</link>
+<externallink>https://</externallink>
 <fanart>https://image.tmdb.org/t/p/original/xETbCo8l06poxFUgbtaUeKmLadz.jpg</fanart>
 <info>[B]Sinopse:[/B] 
 Após 250 anos no gelo, ele retorna em um novo corpo com uma missão: solucionar um complexo mistério e conquistar sua liberdade.</info>
-</item>
+</channel>
+</channels>
 
 <channels>
 <channel>
-<name>[COLOR gold]FILMES![/COLOR]</name>
-<thumbnail>http://abre.ai/aq2e</thumbnail>
+<name>[COLOR gold]Altered Carbon![/COLOR]</name>
+<thumbnail></thumbnail>
 <externallink>https://</externallink>
-<fanart>http://abre.ai/aq1Z</fanart>
-<info>FILMES RECENTES É SÓ AQUI!</info>
+<fanart></fanart>
+<info>[B]Sinopse:[/B] 
+</info>
 </channel>
 </channels>
