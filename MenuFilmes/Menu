@@ -10,7 +10,7 @@
 
 <channels>
 <channel>
-<title>[COLOR gold]LANÇAMENTOS[/COLOR]</title>
+<name>[COLOR gold]LANÇAMENTOS[/COLOR]</name>
 <thumbnail>http://abre.ai/aq2e</thumbnail>
 <externallink>https://</externallink>
 <fanart>http://abre.ai/aq1Z</fanart>
