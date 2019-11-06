@@ -1,142 +1,142 @@
 <item>
-<title>[COLOR white][B]EPISÓDIO - 1[/B][/COLOR]</title>
-<link>$doregex[P1]CHUCKT05EP01.mp4$doregex[P2]</link>
-<regex><name>P4</name><expres>$pyFunction:base64.b32decode("$doregex[P3]")</expres><page></page></regex>
-<regex><name>P3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>P2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>P1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[P4]</page></regex>
+<title>[COLOR gold][B]EPISÓDIO - 1[/B][/COLOR]</title>
+<link>$doregex[SZ1]CHUCKT05EP01.mp4$doregex[SZ2]</link>
+<regex><name>SZ4</name><expres>$pyFunction:base64.b32decode("$doregex[SZ3]")</expres><page></page></regex>
+<regex><name>SZ3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>SZ2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>SZ1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[SZ4]</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/original/uaY4SPfVoMumnfc7jhiG0avB7sC.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/umwxuvelfTnglH2Xkj8khu0pf5r.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]EPISÓDIO - 2[/B][/COLOR]</title>
-<link>$doregex[BP1]CHUCKT05EP02.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Chuck/thumb.jpg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Chuck/fanart.jpg</fanart>
+<title>[COLOR gold][B]EPISÓDIO - 2[/B][/COLOR]</title>
+<link>$doregex[SZ1]CHUCKT05EP02.mp4$doregex[SZ2]</link>
+<regex><name>SZ4</name><expres>$pyFunction:base64.b32decode("$doregex[SZ3]")</expres><page></page></regex>
+<regex><name>SZ3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>SZ2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>SZ1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[SZ4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/uaY4SPfVoMumnfc7jhiG0avB7sC.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/umwxuvelfTnglH2Xkj8khu0pf5r.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]EPISÓDIO - 3[/B][/COLOR]</title>
+<title>[COLOR gold][B]EPISÓDIO - 3[/B][/COLOR]</title>
 <link>$doregex[BP1]CHUCKT05EP03.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Chuck/thumb.jpg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Chuck/fanart.jpg</fanart>
+<fanart>https://image.tmdb.org/t/p/original/umwxuvelfTnglH2Xkj8khu0pf5r.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]EPISÓDIO - 4[/B][/COLOR]</title>
+<title>[COLOR gold][B]EPISÓDIO - 4[/B][/COLOR]</title>
 <link>$doregex[BP1]CHUCKT05EP04.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Chuck/thumb.jpg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Chuck/fanart.jpg</fanart>
+<fanart>https://image.tmdb.org/t/p/original/umwxuvelfTnglH2Xkj8khu0pf5r.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]EPISÓDIO - 5[/B][/COLOR]</title>
+<title>[COLOR gold][B]EPISÓDIO - 5[/B][/COLOR]</title>
 <link>$doregex[BP1]CHUCKT05EP05.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Chuck/thumb.jpg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Chuck/fanart.jpg</fanart>
+<fanart>https://image.tmdb.org/t/p/original/umwxuvelfTnglH2Xkj8khu0pf5r.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]EPISÓDIO - 6[/B][/COLOR]</title>
+<title>[COLOR gold][B]EPISÓDIO - 6[/B][/COLOR]</title>
 <link>$doregex[BP1]CHUCKT05EP06.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Chuck/thumb.jpg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Chuck/fanart.jpg</fanart>
+<fanart>https://image.tmdb.org/t/p/original/umwxuvelfTnglH2Xkj8khu0pf5r.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]EPISÓDIO - 7[/B][/COLOR]</title>
+<title>[COLOR gold][B]EPISÓDIO - 7[/B][/COLOR]</title>
 <link>$doregex[BP1]CHUCKT05EP07.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Chuck/thumb.jpg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Chuck/fanart.jpg</fanart>
+<fanart>https://image.tmdb.org/t/p/original/umwxuvelfTnglH2Xkj8khu0pf5r.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]EPISÓDIO - 8[/B][/COLOR]</title>
+<title>[COLOR gold][B]EPISÓDIO - 8[/B][/COLOR]</title>
 <link>$doregex[BP1]CHUCKT05EP08.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Chuck/thumb.jpg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Chuck/fanart.jpg</fanart>
+<fanart>https://image.tmdb.org/t/p/original/umwxuvelfTnglH2Xkj8khu0pf5r.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]EPISÓDIO - 9[/B][/COLOR]</title>
+<title>[COLOR gold][B]EPISÓDIO - 9[/B][/COLOR]</title>
 <link>$doregex[BP1]CHUCKT05EP09.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Chuck/thumb.jpg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Chuck/fanart.jpg</fanart>
+<fanart>https://image.tmdb.org/t/p/original/umwxuvelfTnglH2Xkj8khu0pf5r.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]EPISÓDIO - 10[/B][/COLOR]</title>
+<title>[COLOR gold][B]EPISÓDIO - 10[/B][/COLOR]</title>
 <link>$doregex[BP1]CHUCKT05EP10.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Chuck/thumb.jpg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Chuck/fanart.jpg</fanart>
+<fanart>https://image.tmdb.org/t/p/original/umwxuvelfTnglH2Xkj8khu0pf5r.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]EPISÓDIO - 11[/B][/COLOR]</title>
+<title>[COLOR gold][B]EPISÓDIO - 11[/B][/COLOR]</title>
 <link>$doregex[BP1]CHUCKT05EP11.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Chuck/thumb.jpg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Chuck/fanart.jpg</fanart>
+<fanart>https://image.tmdb.org/t/p/original/umwxuvelfTnglH2Xkj8khu0pf5r.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]EPISÓDIO - 12[/B][/COLOR]</title>
+<title>[COLOR gold][B]EPISÓDIO - 12[/B][/COLOR]</title>
 <link>$doregex[BP1]CHUCKT05EP12.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Chuck/thumb.jpg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Chuck/fanart.jpg</fanart>
+<fanart>https://image.tmdb.org/t/p/original/umwxuvelfTnglH2Xkj8khu0pf5r.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]EPISÓDIO - 13[/B][/COLOR]</title>
+<title>[COLOR gold][B]EPISÓDIO - 13[/B][/COLOR]</title>
 <link>$doregex[BP1]CHUCKT05EP13.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Chuck/thumb.jpg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Chuck/fanart.jpg</fanart>
+<fanart>https://image.tmdb.org/t/p/original/umwxuvelfTnglH2Xkj8khu0pf5r.jpg</fanart>
 </item>
