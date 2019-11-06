@@ -1,0 +1,29 @@
+<channels>
+<channel>
+<name>[COLOR gold]Original Netflix[/COLOR]</name>
+<thumbnail>http://abre.ai/aq2e</thumbnail>
+<externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/SeriesOriginetflix</externallink>
+<fanart>http://abre.ai/aq1Z</fanart>
+<info>FILMES RECENTES É SÓ AQUI!</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold]Séries Finalizadas[/COLOR]</name>
+<thumbnail>http://abre.ai/aq2e</thumbnail>
+<externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/SeriesOriginetflix</externallink>
+<fanart>http://abre.ai/aq1Z</fanart>
+<info>FILMES RECENTES É SÓ AQUI!</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold]Séries em Andamento[/COLOR]</name>
+<thumbnail>http://abre.ai/aq2e</thumbnail>
+<externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/Conteudo_filmes1</externallink>
+<fanart>http://abre.ai/aq1Z</fanart>
+<info>FILMES RECENTES É SÓ AQUI!</info>
+</channel>
+</channels>
