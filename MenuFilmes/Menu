@@ -1,26 +1,36 @@
 <channels>
 <channel>
+<name>[COLOR gold]LANÇAMENTOS[/COLOR]</name>
+<thumbnail>http://abre.ai/aq2e</thumbnail>
+<externallink>https://</externallink>
+<fanart>http://abre.ai/aq1Z</fanart>
+<info>FILMES NETFLIX</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold]TRILOGIAS E COLEÇÕES[/COLOR]</name>
+<thumbnail>http://abre.ai/aq2e</thumbnail>
+<externallink>https://</externallink>
+<fanart>http://abre.ai/aq1Z</fanart>
+<info>FILMES NETFLIX</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold]CATEGORIAS[/COLOR]</name>
+<thumbnail>http://abre.ai/aq2e</thumbnail>
+<externallink>https://</externallink>
+<fanart>http://abre.ai/aq1Z</fanart>
+<info>FILMES NETFLIX</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR gold]ORIGINAL NETFLIX[/COLOR]</name>
-<thumbnail>http://abre.ai/aq2e</thumbnail>
-<externallink>https://</externallink>
-<fanart>http://abre.ai/aq1Z</fanart>
-<info>FILMES NETFLIX</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[COLOR gold]LANÇAMENTOS[/COLOR]</name>
-<thumbnail>http://abre.ai/aq2e</thumbnail>
-<externallink>https://</externallink>
-<fanart>http://abre.ai/aq1Z</fanart>
-<info>FILMES NETFLIX</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[COLOR gold]LANÇAMENTOS[/COLOR]</name>
 <thumbnail>http://abre.ai/aq2e</thumbnail>
 <externallink>https://</externallink>
 <fanart>http://abre.ai/aq1Z</fanart>
