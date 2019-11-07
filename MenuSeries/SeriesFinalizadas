@@ -22,6 +22,17 @@ Dana Scully (Gillian Anderson) e Fox Mulder (David Duchovny), dois agentes do FB
 
 <channels>
 <channel>
+<name>[COLOR gold]Awkward[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/cnHeVPcbjzSS75b2UPRM4tRCzbi.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/ofhYKL7Do0Ew2jejhYTI5PPiCNt.jpg</fanart>
+<info>[B]Sinopse:[/B]
+Um olhar irreverente sobre o conflito, o caos e o humor que define a vida adolescente através dos olhos de Jenna Hamilton, de 15 anos, cuja vida começa a mudar quando um simples acidente se torna um equívoco épico e é desproporcionalmente desproporcional. A narração na voz em primeira pessoa dos posts de Jenna capta o humor dentro das lutas e experiências com as quais todos podem se relacionar desde seus anos de formação.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR gold]Motel Bates[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/dOB0F1rZVmknJT06EXEdnGYnxlZ.jpg</thumbnail>
 <externallink>https://</externallink>
@@ -53,10 +64,108 @@ Chuck Bartowski (Zachary Levi) é um nerd "gênio da informática" que tem um em
 </channel>
 </channels>
 
+<channels>
+<channel>
+<name>[COLOR gold]Da Vinci's Demons[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/vhxHrfbBOiyOGOfh5fc8twRsQ2o.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/lH18zEYZhx9JbTsLHZgHzYKeUjB.jpg</fanart>
+<info>[B]Sinopse:[/B]
+A trama vai acompanhar a vida de Da Vinci aos 25 anos na Florença renascentista, onde o artista e inventor tinha que lidar com as limitações tecnológicas da época para concretizar suas criações.</info>
+</channel>
+</channels>
 
 <channels>
 <channel>
-<name>[COLOR gold]CHUCK[/COLOR]</name>
+<name>[COLOR gold]DEXTER[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/sJKgQMVM92oMUo5Znwm5fvX4hIS.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/cqxbVAJF2diILYtXKujBJDADT3y.jpg</fanart>
+<info>[B]Sinopse:[/B]
+Renomado funcionário da Polícia de Miami, Dexter esconde de todos uma segunda identidade: ele é um assassino em série que mata os criminosos que a polícia não consegue prender.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold]Engana-me se Puder[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/bhQuhngEFwnlJMULALDe327Bb4S.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/nIdLXjxNSYRk6FE8Tf2uIPkdlqE.jpg</fanart>
+<info>[B]Sinopse:[/B]
+Dr. Cal Lightman ajuda a polícia com seus conhecimentos sobre o comportamento humano e com sua capacidade de saber quando alguém está mentindo.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold]Falling Skies[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/jSLaCj7Zk1UlJJ342omWOUOfqHY.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/7yqpS4Noh8LDIeWmaZqiaQMfeWI.jpg</fanart>
+<info>[B]Sinopse:[/B]
+Falling Skies começa em meio a um ataque alienígena caótico de que deixou a maior parte do mundo completamente incapacitado. Nos seis meses desde a invasão inicial, os poucos sobreviventes uniram-se fora das grandes cidades para começar a difícil tarefa de combater os invasores. Cada dia é um teste de sobrevivência como soldados e cidadãos, que trabalham para proteger as pessoas sob seus cuidados, ao mesmo tempo que uma campanha de repressão acontece contra a força alienígena ocupante.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold]GLEE[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/w8gZS5lfcRzbpkpbWb3nzfYqike.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/tRUsWbNBBolOskazghWh27HSJGT.jpg</fanart>
+<info>[B]Sinopse:[/B]
+O professor de espanhol Will Schuester (Matthew Morrison) resolve comandar o coral da escola, Glee Club. Tentando dar nova vida ao grupo, ele procura diferentes alunos, populares e nerds, como Rachel Berry (Lea Michele), Kurt Hummel (Chris Colfer), Finn Hudson (Cory Monteith), Quinn Fabray (Dianna Agron) e Brittany Pierce (Heather Morris). Schuester tenta equilibrar a sua vida pessoal, enquanto ensaia com os seus novos alunos, mas logo começa a enfrentar as armadilhas da treinadora Sue Sylvester (Jane Lynch).</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold]HANNIBAL[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/zTofl0HVrHSEosI7VTwT65ySu2V.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/atD6zbyo7880HGygImU8GqssBfe.jpg</fanart>
+<info>[B]Sinopse:[/B]
+Um dos personagens mais fascinantes da literatura e do cinema chega à televisão pela primeira vez: o psiquiatra e assassino em série Dr. Hannibal Lecter. No novo drama de Bryan Fuller (Pushing Daisies), descobrimos o começo desta história incrível. Will Graham é um talentoso fornecedor de perfis criminosos que está em busca de um serial killer, com a ajuda do FBI. A forma única de Graham pensar dá a ele a habilidade de ter empatia com qualquer um – até mesmo psicopatas. Ele parece saber o que os afeta. Entretanto, a mente do homem procurado é muito complicada, até mesmo para Graham, portanto, ele busca pela ajuda do Dr. Lecter – um dos maiores psiquiatras do país. Armado com o conhecimento do brilhante doutor, Will e Hannibal (conhecido como um serial killer apenas pela audiência) formam uma parceria brilhante, na qual nenhum vilão escapa. Mas Will não sabe de nada... </info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold]HEROES[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/q7kIQi9x2Y6RxFqydH2tZBWyH2o.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/2VfqOA9SaxdX3IFx9DOOsPdwk7u.jpg</fanart>
+<info>[B]Sinopse:[/B]
+Criada por Tim Kring, Heroes conta a história de um grupo de pessoas comuns de diferentes partes do mundo que descobrem ter habilidades extraordinárias. O que eles não sabem é que estão um passo a frente na evolução da humanidade e que seus destinos já foram traçados. Os mistérios e segredos destes verdadeiros heróis são desvendados a cada episódio.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold]HOUSE[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/lxSzRZ49NXwsiyHuvMsd19QxduC.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/ncdS5plsKvO3DLbRX0fBETB6SNS.jpg</fanart>
+<info>[B]Sinopse:[/B]
+Um médico dissidente e anti-social, que se especializou em medicina de diagnóstico. Faz o que for preciso para resolver casos intrigantes que estão no seu caminho, usando a sua equipe de médicos e sua inteligência.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold]LOST[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/5FxHCe04lJQQH1x6TgSyZX4i8p5.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/3edQZfosqVAn4vKF9y4O4Fk2kF9.jpg</fanart>
+<info>[B]Sinopse:[/B]
+Em Lost você acompanha a vida dos sobreviventes de um acidente aéreo numa misteriosa ilha tropical, após o avião que viajava de Sydney, Austrália para Los Angeles, Estados Unidos cair em algum lugar do Oceano Pacífico.  A série tem um estilo único que segue dois tipos de histórias não ligadas entre si: primeiro, a luta dos 48 sobreviventes do desastre a trabalhar em conjunto para se manterem vivos.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold]LOST[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
@@ -67,7 +176,7 @@ Chuck Bartowski (Zachary Levi) é um nerd "gênio da informática" que tem um em
 
 <channels>
 <channel>
-<name>[COLOR gold]CHUCK[/COLOR]</name>
+<name>[COLOR gold]LOST[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
@@ -78,7 +187,7 @@ Chuck Bartowski (Zachary Levi) é um nerd "gênio da informática" que tem um em
 
 <channels>
 <channel>
-<name>[COLOR gold]CHUCK[/COLOR]</name>
+<name>[COLOR gold]LOST[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
@@ -89,7 +198,7 @@ Chuck Bartowski (Zachary Levi) é um nerd "gênio da informática" que tem um em
 
 <channels>
 <channel>
-<name>[COLOR gold]CHUCK[/COLOR]</name>
+<name>[COLOR gold]LOST[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
@@ -100,29 +209,7 @@ Chuck Bartowski (Zachary Levi) é um nerd "gênio da informática" que tem um em
 
 <channels>
 <channel>
-<name>[COLOR gold]CHUCK[/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://</externallink>
-<fanart></fanart>
-<info>[B]Sinopse:[/B]
-</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[COLOR gold]CHUCK[/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://</externallink>
-<fanart></fanart>
-<info>[B]Sinopse:[/B]
-</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[COLOR gold]CHUCK[/COLOR]</name>
+<name>[COLOR gold]LOST[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
