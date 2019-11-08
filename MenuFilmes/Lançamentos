@@ -132,7 +132,18 @@ Kate is a young woman subscribed to bad decisions. Her last date with disaster? 
 
 <channels>
 <channel>
-<name>[COLOR gold]LANÇAMENTOS[/COLOR]</name>
+<name>[COLOR gold]STUBER: A CORRIDA MALUCA[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/bopJPyP68dJEjO7i0gUrYMYC0Eh.jpg</thumbnail>
+<externallink>http://cdnfe3.azureedge.net/RCFServer3/ondemand/STBRACRDAMLCA.mp4?attachment=true</externallink>
+<fanart>https://image.tmdb.org/t/p/original/xgfn98c2UzvFWP6MXDzytearmQ3.jpg</fanart>
+<info>[B]SINOPSE:[/B]
+Quando Stu (Kumail Nanjiani), um motorista da Uber, é recrutado por um policial (Dave Bautista) para ajudá-lo a investigar o paradeiro de um brutal assassino, algumas regras precisam ser quebradas. Seguindo as poucas pistas que possuem para seguir o traço do criminoso, eles cada vez se complicam mais na perseguição desenfreada.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold]Last Christmas[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
@@ -140,3 +151,48 @@ Kate is a young woman subscribed to bad decisions. Her last date with disaster? 
 </info>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>[COLOR gold]Last Christmas[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>[B]SINOPSE:[/B]
+</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold]Last Christmas[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>[B]SINOPSE:[/B]
+</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold]Last Christmas[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>[B]SINOPSE:[/B]
+</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold]Last Christmas[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>[B]SINOPSE:[/B]
+</info>
+</channel>
+</channels>
+
