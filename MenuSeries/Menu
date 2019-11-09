@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR gold]Original Netflix[/COLOR]</name>
+<name>[B][COLOR gold]Original Netflix[/COLOR][/B]</name>
 <thumbnail>http://abre.ai/aq2e</thumbnail>
 <externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/MenuSeries/OrinalNetflix</externallink>
 <fanart>http://abre.ai/arG3</fanart>
@@ -10,7 +10,7 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]Séries em Andamento[/COLOR]</name>
+<name>[B][COLOR gold]Séries em Andamento[/COLOR][/B]</name>
 <thumbnail>http://abre.ai/aq2e</thumbnail>
 <externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/MenuSeries/SeriesAndamento</externallink>
 <fanart>http://abre.ai/arG3</fanart>
@@ -20,7 +20,7 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]Séries Finalizadas[/COLOR]</name>
+<name>[B][COLOR gold]Séries Finalizadas[/COLOR][/B]</name>
 <thumbnail>http://abre.ai/aq2e</thumbnail>
 <externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/MenuSeries/SeriesFinalizadas</externallink>
 <fanart>http://abre.ai/arG3</fanart>
