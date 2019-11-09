@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR gold]FILMES![/COLOR]</name>
+<name>[B][COLOR gold]FILMES![/COLOR][/B]</name>
 <thumbnail>http://abre.ai/aq2e</thumbnail>
 <externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/MenuFilmes/Menu</externallink>
 <fanart>http://abre.ai/arGV</fanart>
@@ -10,7 +10,7 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]SÉRIES![/COLOR]</name>
+<name>[B][COLOR gold]SÉRIES![/COLOR][/B]</name>
 <thumbnail>http://abre.ai/aq2e</thumbnail>
 <externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/MenuSeries/Menu</externallink>
 <fanart>http://abre.ai/arG3</fanart>
@@ -20,7 +20,7 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]DESENHOS![/COLOR]</name>
+<name>[B][COLOR gold]DESENHOS![/COLOR][/B]</name>
 <thumbnail>http://abre.ai/aq2e</thumbnail>
 <externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/Conteudo_filmes1</externallink>
 <fanart>http://abre.ai/aq1Z</fanart>
