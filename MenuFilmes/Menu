@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR gold]LANÇAMENTOS[/COLOR]</name>
+<name>[B][COLOR gold]LANÇAMENTOS[/COLOR][/B]</name>
 <thumbnail>http://abre.ai/aq2e</thumbnail>
 <externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/MenuFilmes/Lan%C3%A7amentos</externallink>
 <fanart>http://abre.ai/arGV</fanart>
@@ -10,7 +10,7 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]TRILOGIAS E COLEÇÕES[/COLOR]</name>
+<name>[B][COLOR gold]TRILOGIAS E COLEÇÕES[/COLOR][/B]</name>
 <thumbnail>http://abre.ai/aq2e</thumbnail>
 <externallink>https://</externallink>
 <fanart>http://abre.ai/arGV</fanart>
@@ -20,7 +20,7 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]CATEGORIAS[/COLOR]</name>
+<name>[B][COLOR gold]CATEGORIAS[/COLOR][/B]</name>
 <thumbnail>http://abre.ai/aq2e</thumbnail>
 <externallink>https://</externallink>
 <fanart>http://abre.ai/arGV</fanart>
@@ -30,7 +30,7 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]ORIGINAL NETFLIX[/COLOR]</name>
+<name>[B][COLOR gold]ORIGINAL NETFLIX[/COLOR][/B]</name>
 <thumbnail>http://abre.ai/aq2e</thumbnail>
 <externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/MenuFilmes/OriginalNetflix</externallink>
 <fanart>http://abre.ai/arGV</fanart>
