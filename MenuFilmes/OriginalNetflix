@@ -1,90 +1,75 @@
-<channels>
-<channel>
-<name>[COLOR gold]O REI[/COLOR]</name>
+<item>
+<title>[COLOR red]O REI[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/pTFoCYax0hvP0jYN0ywMC8SmHdV.jpg</thumbnail>
-<externallink>https://</externallink>
+<link>https://</link>
 <fanart>https://image.tmdb.org/t/p/original/6Su3nySWCoRzzQL0TivhlFsceVn.jpg</fanart>
 <info>[B]SINOPSE:[/B]
 Após a morte de seu pai, Henrique V é coroado rei, obrigado a comandar a Inglaterra. O governante precisa amadurecer rapidamente para manter o país consideravelmente seguro durante a Guerra dos 100 Anos, contra a França.</info>
-</channel>
-</channels>
+</item>
 
-<channels>
-<channel>
-<name>[COLOR gold]O Irlandês[/COLOR]</name>
+<item>
+<title>[COLOR red]O Irlandês[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/bkRjH3bGJPDx8L7E7STBFG8j88D.jpg</thumbnail>
-<externallink>https://</externallink>
+<link>https://</link>
 <fanart>https://image.tmdb.org/t/p/original/aZ1ZqJ4uO1RK5gU5jRsO4qG7rJo.jpg</fanart>
 <info>[B]SINOPSE:[/B]
 A saga épica de Martin Scorsese sobre o crime organizado americano no pós-guerra contada por um matador de aluguel. Com Robert De Niro, Al Pacino e Joe Pesci.</info>
-</channel>
-</channels>
+</item>
 
-<channels>
-<channel>
-<name>[COLOR gold]El Camino: A Breaking Bad Film[/COLOR]</name>
+
+<item>
+<title>[COLOR red]El Camino: A Breaking Bad Film[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/p4Il6gsDrOvrW5vi1ndTDR98UmS.jpg</thumbnail>
-<externallink>https://</externallink>
+<link>https://</link>
 <fanart>https://image.tmdb.org/t/p/original/tGa9DztapCJXPmEJeu3mfnCH4DI.jpg</fanart>
 <info>[B]SINOPSE:[/B]
 Após sua dramática fuga do cativeiro, Jesse precisa se reconciliar com o passado para que consiga criar algum tipo de futuro. Escrito e dirigido pelo criador de Breaking Bad, Vince Gilligan, e estrelado por Aaron Paul.</info>
-</channel>
-</channels>
+</item>
 
-<channels>
-<channel>
-<name>[COLOR gold]Seis Vezes Confusão[/COLOR]</name>
-<externallink>https://</externallink>
+<item>
+<title>[COLOR red]Seis Vezes Confusão[/COLOR]</title>
+<link>https://</link>
 <thumbnail>https://image.tmdb.org/t/p/original/14ix0zsnodGCt0g26YBU23QpriG.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/wd8T4Wh7S8f7t93qNp4QsH9Ig1H.jpg</fanart>
 <info>[B]SINOPSE:[/B]
 Perto de ter seu primeiro filho, um homem decide procurar sua mãe biológica na intenção de encontrar respostas sobre si mesmo. Porém, essa jornada o mostra muito mais surpresas do que esperava, como a existência de seus mais cinco irmãos gêmeos.</info>
-</channel>
-</channels>
+</item>
 
-<channels>
-<channel>
-<name>[COLOR gold]Mistério no Mediterrâneo[/COLOR]</name>
-<externallink>https://</externallink>
+<item>
+<title>[COLOR red]Mistério no Mediterrâneo[/COLOR]</title>
+<link>https://</link>
 <thumbnail>https://image.tmdb.org/t/p/original/eygXgrzMaAzWTR7V0H5JYrO6RVf.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/eygXgrzMaAzWTR7V0H5JYrO6RVf.jpg</fanart>
 <info>[B]SINOPSE:[/B]
 Um policial de Nova York (Adam Sandler) que finalmente leva a sua esposa (Jennifer Aniston) em uma viagem para a Europa prometida por anos. Porém, um encontro por acaso no voo com um homem misterioso (Luke Evans) leva-os a uma reunião de família no iate gigantesco do idoso bilionário Malcolm Quince. Quando Quince é assassinado, eles tornam-se os principais suspeitos neste jogo de detetive dos dias modernos.</info>
-</channel>
-</channels>
+</item>
 
-<channels>
-<channel>
-<name>[COLOR gold]Shaft[/COLOR]</name>
-<externallink>https://</externallink>
+<item>
+<title>[COLOR red]Shaft[/COLOR]</title>
+<link>https://</link>
 <thumbnail>https://image.tmdb.org/t/p/original/zV4IrBpC4efLSxqyDBaHsrHjXB8.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/kBuenNbs1SidHPxJuMyMU8JMboI.jpg</fanart>
 <info>[B]SINOPSE:[/B]
 Após a morte suspeita de um amigo, John Shaft Jr. (Jessie T. Usher) resolve pedir ajuda a seu pai, Shaft (Samuel L. Jackson), para resolver o caso. Ele aceita deixar a aposentadoria para iniciar a investigação, apesar dos problemas existentes com o próprio filho.</info>
-</channel>
-</channels>
+</item>
 
-<channels>
-<channel>
-<name>[COLOR gold]Zerando a Vida[/COLOR]</name>
-<externallink>https://</externallink>
+<item>
+<item>[COLOR red]Zerando a Vida[/COLOR]</title>
+<link>https://</link>
 <thumbnail>https://image.tmdb.org/t/p/original/agNPk56i4JedrID6AXIvnQJl46v.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/j2aTHn6kzFJyZALlLUWw9V0JXSh.jpg</fanart>
 <info>[B]SINOPSE:[/B]
 Dois caras azarados perdem todo seu dinheiro e decidem fingir a própria morte para começar tudo de novo com outras identidades e o dinheiro do seguro. No entanto, os novos nomes os colocam em apuros ainda maiores do que enfrentavam antes.</info>
-</channel>
-</channels>
+</item>
 
-<channels>
-<channel>
-<name>[COLOR gold]A Lavanderia[/COLOR]</name>
-<externallink>https://</externallink>
+<item>
+<title>[COLOR red]A Lavanderia[/COLOR]</title>
+<link>https://</link>
 <thumbnail>https://image.tmdb.org/t/p/original/wxEmaUYeO43LlWDRzuykVtrqzhC.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/mXFmiaqqTPHatImHvQOujIYX7qF.jpg</fanart>
 <info>[B]SINOPSE:[/B]
 Por debaixo da superfície do mundo financeiro, um grande esquema de lavagem de dinheiro envolvendo as principais figuras políticas mundiais fluía desde 1970. Em 2017, o Consórcio Internacional de Jornalistas de Investigação publicou o maior vazamento de corrupção da história, baseado em 11,5 milhões de arquivos secretos obtidos a partir do escritório de advocacia Mossack Fonseca, no Panamá. A descoberta balança com vigor a esfera pública, causando uma crise na política internacional.</info>
-</channel>
-</channels>
+</item>
 
 <item>
 <title>[B][COLOR red]FRATURA[/COLOR][/B]</title>
