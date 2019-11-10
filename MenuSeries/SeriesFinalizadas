@@ -1,5 +1,16 @@
 <channels>
 <channel>
+<name>[COLOR gold]2 Broke Girls[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/1IZm1DZEvgd8CMAI8FHRpNVS4MB.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/3s06cmm5h2lhsJuoc0m8wdTK10e.jpg</fanart>
+<info>[B]Sinopse:[/B]
+Max é trabalhadora, esperta e está sempre dura. Caroline veio de família rica, sempre teve tudo o que quis, mas pela primeira vez na vida está sentindo na pele o que é não ter dinheiro. Duas mulheres de mundos diferentes que são unidas pelo destino por compartilhar da mesma precária situação financeira.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR gold]24 Horas[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/fXf7me24JYgw0s4RX37FHAf7Fhd.jpg</thumbnail>
 <externallink>https://</externallink>
@@ -160,6 +171,17 @@ Um médico dissidente e anti-social, que se especializou em medicina de diagnós
 <fanart>https://image.tmdb.org/t/p/original/3edQZfosqVAn4vKF9y4O4Fk2kF9.jpg</fanart>
 <info>[B]Sinopse:[/B]
 Em Lost você acompanha a vida dos sobreviventes de um acidente aéreo numa misteriosa ilha tropical, após o avião que viajava de Sydney, Austrália para Los Angeles, Estados Unidos cair em algum lugar do Oceano Pacífico.  A série tem um estilo único que segue dois tipos de histórias não ligadas entre si: primeiro, a luta dos 48 sobreviventes do desastre a trabalhar em conjunto para se manterem vivos.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold]LOST[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>[B]Sinopse:[/B]
+</info>
 </channel>
 </channels>
 
