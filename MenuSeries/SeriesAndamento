@@ -1,5 +1,16 @@
 <channels>
 <channel>
+<name>[COLOR gold][B]Anne with an E[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/2ZqeAvj4l3mZhit4DhT4pAJ0xfs.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/S%C3%89RIES/ANNE/Menu</externallink>
+<fanart>https://image.tmdb.org/t/p/original/ywQtHG17LZhAFZyZtBflhtFMtJ7.jpg</fanart>
+<info>[B]Sinopse:[/B]
+O mundo de Green Gables que Anne tanto adora se expande com novas pessoas e emocionantes histórias de amor, perdas e amadurecimento.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR gold][B]Godfather of Harlem[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/keuSsTvwX4bLsRkFfI6KzW4LVDX.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/S%C3%89RIES/Godfather_of_Harlem/Menu</externallink>
