@@ -11,7 +11,18 @@ Em um mundo parecido com o nosso mas habitado por bruxas, ursos guerreiros e dae
 
 <channels>
 <channel>
-<name>[COLOR gold]LOST[/COLOR]</name>
+<name>[COLOR gold][B]Godfather of Harlem[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/keuSsTvwX4bLsRkFfI6KzW4LVDX.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/rtwQ3M3QMjduKB9tOyNRcXrqLmX.jpg</fanart>
+<info>[B]Sinopse:[/B]
+The true story of infamous crime boss Bumpy Johnson, who in the early 1960s returned from ten years in prison to find the neighborhood he once ruled in shambles. With the streets controlled by the Italian mob, Bumpy must take on the Genovese crime family to regain control.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold][B]LOST[/B][/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
@@ -20,46 +31,3 @@ Em um mundo parecido com o nosso mas habitado por bruxas, ursos guerreiros e dae
 </channel>
 </channels>
 
-<channels>
-<channel>
-<name>[COLOR gold]LOST[/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://</externallink>
-<fanart></fanart>
-<info>[B]Sinopse:[/B]
-</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[COLOR gold]LOST[/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://</externallink>
-<fanart></fanart>
-<info>[B]Sinopse:[/B]
-</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[COLOR gold]LOST[/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://</externallink>
-<fanart></fanart>
-<info>[B]Sinopse:[/B]
-</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[COLOR gold]LOST[/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://</externallink>
-<fanart></fanart>
-<info>[B]Sinopse:[/B]
-</info>
-</channel>
-</channels>
