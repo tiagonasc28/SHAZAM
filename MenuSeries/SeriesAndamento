@@ -87,7 +87,7 @@ Os médicos do Grey Sloan Memorial Hospital lidam diariamente com casos e conseq
 
 <channels>
 <channel>
-<name>[COLOR gold]His Dark Materials: Fronteiras do Universo[/COLOR]</name>
+<name>[B][COLOR gold]His Dark Materials: Fronteiras do Universo[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/xOjRNnQw5hqR1EULJ2iHkGwJVA4.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://image.tmdb.org/t/p/original/9yKCJTOh9m3Lol2RY3kw99QPH6x.jpg</fanart>
@@ -98,23 +98,23 @@ Em um mundo parecido com o nosso mas habitado por bruxas, ursos guerreiros e dae
 
 <channels>
 <channel>
-<name>[COLOR gold][B]Grey’s Anatomy[/B][/COLOR]</name>
-<thumbnail></thumbnail>
+<name>[COLOR gold][B]On Becoming a God in Central Florida[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/QgPfM0a7cZnMOHWUzZFPQ0nCaj.jpg</thumbnail>
 <externallink>https://</externallink>
-<fanart></fanart>
+<fanart>https://image.tmdb.org/t/p/original/7AK4zoBz9ieIupvYhqHpMz83MAZ.jpg</fanart>
 <info>[B]Sinopse:[/B]
-</info>
+In the early 1990s, a recently widowed, impoverished Orlando water park employee schemes and cons her way up the ranks of the multi-billion dollar pyramid scheme which ruined her financially in the first place.</info>
 </channel>
 </channels>
 
 <channels>
 <channel>
-<name>[COLOR gold][B]Grey’s Anatomy[/B][/COLOR]</name>
-<thumbnail></thumbnail>
+<name>[COLOR gold][B]Treadstone[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/tzoxJjPSgsPCepWgpl4LWjCKise.jpg</thumbnail>
 <externallink>https://</externallink>
-<fanart></fanart>
+<fanart>https://image.tmdb.org/t/p/original/kQltJpMlTmPq0n6aP6PNLDeQsmP.jpg</fanart>
 <info>[B]Sinopse:[/B]
-</info>
+The Treadstone project, having created super spy Jason Bourne, turns its attention on a new protocol to develop unstoppable superhuman assassins.</info>
 </channel>
 </channels>
 
