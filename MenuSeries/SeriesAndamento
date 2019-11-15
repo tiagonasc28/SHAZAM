@@ -1,5 +1,16 @@
 <channels>
 <channel>
+<name>[COLOR gold][B]Agents Of S.H.I.E.L.D.[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/6vuejD9ajapbCMdycVfXSiJMCGd.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/iWopHyAvuIDjGX10Yc3nn6UEebW.jpg</fanart>
+<info>[B]Sinopse:[/B]
+O agente Phil Coulson, visto em ação no filme “Os Vingadores”, monta uma equipe com os melhores agentes da S.H.I.E.L.D. para investigar ameaças bizarras.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR gold][B]Anne with an E[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/2ZqeAvj4l3mZhit4DhT4pAJ0xfs.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/S%C3%89RIES/ANNE/Menu</externallink>
@@ -22,6 +33,17 @@ Godfather of Harlem conta a história do gangster Bumpy Johnson (Forest Whitaker
 
 <channels>
 <channel>
+<name>[COLOR gold][B]Grey’s Anatomy[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/aI4bobthe7OORg4s2zjm0f0FdC1.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/9Ntaq2UBQYD7oxjkwMCH3gG5Gpk.jpg</fanart>
+<info>[B]Sinopse:[/B]
+Os médicos do Grey Sloan Memorial Hospital lidam diariamente com casos e consequências de vida ou morte. É um no outro que eles encontram apoio, conforto, amizade e, às vezes, até mais que amizade... Juntos, eles descobrem o quanto a vida profissional e a pessoal podem ser complicadas e se misturarem no meio do caminho.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR gold]His Dark Materials: Fronteiras do Universo[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/xOjRNnQw5hqR1EULJ2iHkGwJVA4.jpg</thumbnail>
 <externallink>https://</externallink>
@@ -33,7 +55,62 @@ Em um mundo parecido com o nosso mas habitado por bruxas, ursos guerreiros e dae
 
 <channels>
 <channel>
-<name>[COLOR gold][B]LOST[/B][/COLOR]</name>
+<name>[COLOR gold][B]Grey’s Anatomy[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>[B]Sinopse:[/B]
+</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold][B]Grey’s Anatomy[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>[B]Sinopse:[/B]
+</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold][B]Grey’s Anatomy[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>[B]Sinopse:[/B]
+</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold][B]Grey’s Anatomy[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>[B]Sinopse:[/B]
+</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold][B]Grey’s Anatomy[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>[B]Sinopse:[/B]
+</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold][B]Grey’s Anatomy[/B][/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
