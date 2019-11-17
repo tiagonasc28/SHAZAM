@@ -120,6 +120,17 @@ In the early 1990s, a recently widowed, impoverished Orlando water park employee
 
 <channels>
 <channel>
+<name>[COLOR gold][B]SEE[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/S%C3%89RIES/SEE/Menu</externallink>
+<fanart></fanart>
+<info>[B]Sinopse:[/B]
+Aaa</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR gold][B]Treadstone[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/tzoxJjPSgsPCepWgpl4LWjCKise.jpg</thumbnail>
 <externallink>https://</externallink>
