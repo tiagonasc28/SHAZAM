@@ -1,7 +1,44 @@
 <item>
-<title>[COLOR gold][B]EPISÓDIO - 1[/B][/COLOR]</title>
-<link>http://</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<title>[COLOR turquoise][B]EPISÓDIO - 1[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-UAHGh4EUy4vPjTaSa_XI2larjvuFfVM/view?usp=drivesdk://</link>
+<thumbnail>https://image.tmdb.org/t/p/original/g3JsScc7mQCfc3e5e5rXwu7xVVP.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8TOkxONO3TEeJRuZWb0hG7SboyV.jpg</fanart>
+<info>[B]Sinopse:[/B]
+Em um futuro distante, um vírus dizima a humanidade deixando seus sobreviventes cegos. Baba Voss, pai de gêmeos nascidos séculos mais tarde com o mítico dom da visão. Com a ajuda de Paris, ele deve proteger sua tribo contra uma poderosa rainha.</info>
+</item>
+
+<item>
+<title>[COLOR turquoise][B]EPISÓDIO - 2[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-Spm1wTnC5rH11FU292ALuCVbB-f0Uug/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/original/g3JsScc7mQCfc3e5e5rXwu7xVVP.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8TOkxONO3TEeJRuZWb0hG7SboyV.jpg</fanart>
+<info>[B]Sinopse:[/B]
+Em um futuro distante, um vírus dizima a humanidade deixando seus sobreviventes cegos. Baba Voss, pai de gêmeos nascidos séculos mais tarde com o mítico dom da visão. Com a ajuda de Paris, ele deve proteger sua tribo contra uma poderosa rainha.</info>
+</item>
+
+<item>
+<title>[COLOR turquoise][B]EPISÓDIO - 3[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-YritejGQ8_vpCynRd7n6QDMeXWSqFzP/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/original/g3JsScc7mQCfc3e5e5rXwu7xVVP.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8TOkxONO3TEeJRuZWb0hG7SboyV.jpg</fanart>
+<info>[B]Sinopse:[/B]
+Em um futuro distante, um vírus dizima a humanidade deixando seus sobreviventes cegos. Baba Voss, pai de gêmeos nascidos séculos mais tarde com o mítico dom da visão. Com a ajuda de Paris, ele deve proteger sua tribo contra uma poderosa rainha.</info>
+</item>
+
+<item>
+<title>[COLOR turquoise][B]EPISÓDIO - 4[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-jS33qB8ZzMYLvCQUqOkE7tViSTf2S7Y/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/original/g3JsScc7mQCfc3e5e5rXwu7xVVP.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8TOkxONO3TEeJRuZWb0hG7SboyV.jpg</fanart>
+<info>[B]Sinopse:[/B]
+Em um futuro distante, um vírus dizima a humanidade deixando seus sobreviventes cegos. Baba Voss, pai de gêmeos nascidos séculos mais tarde com o mítico dom da visão. Com a ajuda de Paris, ele deve proteger sua tribo contra uma poderosa rainha.</info>
+</item>
+
+<item>
+<title>[COLOR turquoise][B]EPISÓDIO - 5[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-mriGe6gyVUdtgyE2Tf0gQdSdxWlh56V/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/original/g3JsScc7mQCfc3e5e5rXwu7xVVP.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8TOkxONO3TEeJRuZWb0hG7SboyV.jpg</fanart>
+<info>[B]Sinopse:[/B]
+Em um futuro distante, um vírus dizima a humanidade deixando seus sobreviventes cegos. Baba Voss, pai de gêmeos nascidos séculos mais tarde com o mítico dom da visão. Com a ajuda de Paris, ele deve proteger sua tribo contra uma poderosa rainha.</info>
 </item>
