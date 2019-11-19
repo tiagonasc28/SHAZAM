@@ -1,6 +1,6 @@
 <item>
 <title>[B][COLOR blue]EPISÓDIO - 1 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]RAINCOCS03EP01.mp4$doregex[2]</link>
+<link>$doregex[1]RAINCOCS03EP01.mp4$doregex[2]</link>
 <regex><name>4</name><expres>$pyFunction:base64.b32decode("$doregex[3]")</expres><page></page></regex>
 <regex><name>3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
