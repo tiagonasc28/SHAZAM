@@ -1,6 +1,5 @@
 <item>
 <title>[B][COLOR white]EPISÓDIO - 1 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>http://cdnfe2.azureedge.net/RCServer13/ondemand/RANGRT01EP01.mp4?attachment=true</link>
 <link>$doregex[BP1]RANGRS01EP01.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
