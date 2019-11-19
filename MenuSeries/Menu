@@ -4,7 +4,7 @@
 <thumbnail>http://abre.ai/aq2e</thumbnail>
 <externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/MenuSeries/OrinalNetflix</externallink>
 <fanart>http://abre.ai/arG3</fanart>
-<info>FILMES RECENTES É SÓ AQUI!</info>
+<info>SÉRIES DA NETFLIX FINALIZADAS E EM ANDAMENTO!</info>
 </channel>
 </channels>
 
@@ -14,7 +14,7 @@
 <thumbnail>http://abre.ai/aq2e</thumbnail>
 <externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/MenuSeries/SeriesAndamento</externallink>
 <fanart>http://abre.ai/arG3</fanart>
-<info>FILMES RECENTES É SÓ AQUI!</info>
+<info>TEMPORADAS RECENTES E EM ANDAMENTO!</info>
 </channel>
 </channels>
 
@@ -24,7 +24,7 @@
 <thumbnail>http://abre.ai/aq2e</thumbnail>
 <externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/MenuSeries/SeriesFinalizadas</externallink>
 <fanart>http://abre.ai/arG3</fanart>
-<info>FILMES RECENTES É SÓ AQUI!</info>
+<info>SERIES FINALIZADAS E CANCELADAS!</info>
 </channel>
 </channels>
 
@@ -32,8 +32,8 @@
 <channel>
 <name>[B][COLOR deepskyblue]DC COMICS[/COLOR][/B]</name>
 <thumbnail>http://abre.ai/aq2e</thumbnail>
-<externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/MenuSeries/SeriesFinalizadas</externallink>
+<externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/MenuSeries/DC%20COMICS</externallink>
 <fanart>http://abre.ai/arG3</fanart>
-<info>FILMES RECENTES É SÓ AQUI!</info>
+<info>SÉRIES DA DC DUBLADO E LEGENDADO!</info>
 </channel>
 </channels>
