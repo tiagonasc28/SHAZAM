@@ -1,1 +1,43 @@
+<item>
+<title>[B][COLOR blue]EPISÓDIO - 1 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]RAINCOCS03EP01.mp4$doregex[2]</link>
+<regex><name>4</name><expres>$pyFunction:base64.b32decode("$doregex[3]")</expres><page></page></regex>
+<regex><name>3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/or0STNIyvwQXFPX811uTMB1nS3J.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/h6QhUjIquntBfvD8nm71RoEgwvr.jpg</fanart>
+</item>
 
+<item>
+<title>[B][COLOR blue]EPISÓDIO - 2 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[1]RAINCOCS03EP02.mp4$doregex[2]</link>
+<regex><name>4</name><expres>$pyFunction:base64.b32decode("$doregex[3]")</expres><page></page></regex>
+<regex><name>3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/or0STNIyvwQXFPX811uTMB1nS3J.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/h6QhUjIquntBfvD8nm71RoEgwvr.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR blue]EPISÓDIO - 3 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[1]RAINCOCS03EP03.mp4$doregex[2]</link>
+<regex><name>4</name><expres>$pyFunction:base64.b32decode("$doregex[3]")</expres><page></page></regex>
+<regex><name>3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/or0STNIyvwQXFPX811uTMB1nS3J.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/h6QhUjIquntBfvD8nm71RoEgwvr.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR blue]EPISÓDIO - 4 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[1]RAINCOCS03EP04.mp4$doregex[2]</link>
+<regex><name>4</name><expres>$pyFunction:base64.b32decode("$doregex[3]")</expres><page></page></regex>
+<regex><name>3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/or0STNIyvwQXFPX811uTMB1nS3J.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/h6QhUjIquntBfvD8nm71RoEgwvr.jpg</fanart>
+</item>
