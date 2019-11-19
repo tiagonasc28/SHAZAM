@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[B][COLOR gold]Original Netflix[/COLOR][/B]</name>
+<name>[B][COLOR gold]Original[/COLOR][COLOR firebrick] Netflix[/COLOR][/B]</name>
 <thumbnail>http://abre.ai/aq2e</thumbnail>
 <externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/MenuSeries/OrinalNetflix</externallink>
 <fanart>http://abre.ai/arG3</fanart>
@@ -21,6 +21,16 @@
 <channels>
 <channel>
 <name>[B][COLOR gold]Séries Finalizadas[/COLOR][/B]</name>
+<thumbnail>http://abre.ai/aq2e</thumbnail>
+<externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/MenuSeries/SeriesFinalizadas</externallink>
+<fanart>http://abre.ai/arG3</fanart>
+<info>FILMES RECENTES É SÓ AQUI!</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B][COLOR deepskyblue]DC COMICS[/COLOR][/B]</name>
 <thumbnail>http://abre.ai/aq2e</thumbnail>
 <externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/MenuSeries/SeriesFinalizadas</externallink>
 <fanart>http://abre.ai/arG3</fanart>
