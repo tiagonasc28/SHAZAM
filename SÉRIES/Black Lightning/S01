@@ -1,5 +1,5 @@
 <item>
-<title>[B][COLOR purple]EPISÓDIO - 1 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 1 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>http://cdnfe2.azureedge.net/RCServer13/ondemand/RANGRT01EP01.mp4?attachment=true</link>
 <link>$doregex[BP1]RANGRS01EP01.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -11,7 +11,7 @@
 </item>
 
 <item>
-<title>[B][COLOR purple]EPISÓDIO - 2 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 2 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]RANGRS01EP02.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -22,7 +22,7 @@
 </item>
 
 <item>
-<title>[B][COLOR purple]EPISÓDIO - 3 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 3 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]RANGRS01EP03.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -33,7 +33,7 @@
 </item>
 
 <item>
-<title>[B][COLOR purple]EPISÓDIO - 4 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 4 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]RANGRS01EP04.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -44,7 +44,7 @@
 </item>
 
 <item>
-<title>[B][COLOR purple]EPISÓDIO - 5 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 5 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]RANGRS01EP05.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -55,7 +55,7 @@
 </item>
 
 <item>
-<title>[B][COLOR purple]EPISÓDIO - 6 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 6 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]RANGRS01EP06.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -66,7 +66,7 @@
 </item>
 
 <item>
-<title>[B][COLOR purple]EPISÓDIO - 7 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 7 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]RANGRS01EP07.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -77,7 +77,7 @@
 </item>
 
 <item>
-<title>[B][COLOR purple]EPISÓDIO - 8 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 8 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]RANGRS01EP08.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -88,7 +88,7 @@
 </item>
 
 <item>
-<title>[B][COLOR purple]EPISÓDIO - 9 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 9 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]RANGRS01EP09.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -99,7 +99,7 @@
 </item>
 
 <item>
-<title>[B][COLOR purple]EPISÓDIO - 10 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 10 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]RANGRS01EP10.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -110,7 +110,7 @@
 </item>
 
 <item>
-<title>[B][COLOR purple]EPISÓDIO - 11 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 11 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1].mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -121,7 +121,7 @@
 </item>
 
 <item>
-<title>[B][COLOR purple]EPISÓDIO - 12 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 12 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1].mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -132,7 +132,7 @@
 </item>
 
 <item>
-<title>[B][COLOR purple]EPISÓDIO - 13 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 13 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]RAINCOCS02EP13.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
