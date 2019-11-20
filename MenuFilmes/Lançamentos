@@ -1,7 +1,7 @@
 
 <item>
 <title>[B][COLOR orange]Altitude - 720HD[/B][/COLOR][COLOR lime] Torrent [COLOR yellow] Requiere Quasar[/COLOR][/COLOR]</title>
-<link>plugin://plugin.video.mega/?url=https://mega.nz/#!SfxWxYpB!sUmPmdGhM3wlJ1DbiLwvI1TToYWKn-zKScjQP9NYhI8&action=stream_pelisalacarta</link>
+<link>plugin://plugin.video.mega?mode=streamURL&amp;url=https://mega.nz/#!SfxWxYpB!sUmPmdGhM3wlJ1DbiLwvI1TToYWKn-zKScjQP9NYhI8?usp=drivesdk</link>
 <fanart>http://www.dvdsreleasedates.com/posters/300/A/Altitude-2017.jpg</fanart>
 <thumbnail>http://www.dvdsreleasedates.com/posters/300/A/Altitude-2017.jpg</thumbnail>
 </item>
