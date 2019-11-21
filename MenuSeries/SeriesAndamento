@@ -98,6 +98,50 @@ Dr. Jason Bull é o fundador de uma empresa de consultoria de sucesso que usa ps
 
 <channels>
 <channel>
+<name>[COLOR gold][B]Castle Rock[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/6dnUpv9ghx84pgxlMOb4uuJrWDs.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/qyRJPtJkJz7wtS4UJnJez9S3WOM.jpg</fanart>
+<info>[B]Sinopse:[/B]
+Castle Rock combina a escala mitológica e a narrativa íntima de personagens das obras mais conhecidas de Stephen King, tecendo uma saga épica de luz e escuridão que ganha vida em uma pequena área nos bosques do estado norte-americano de Maine.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold][B]Chicago Fire[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/g9aoiYLbE3IrDiMms5fU4lv6BR4.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/gdIFeiJGsywKt6scyILMZI1tMl4.jpg</fanart>
+<info>[B]Sinopse:[/B]
+Acompanhe o dia-a-dia intenso e os dramas dos oficiais do Departamento de Bombeiros de Chicago e paramédicos do Quartel 51. A equipe composta por bombeiros, equipe de resgate e paramédicos, irá passar por situações tensas e delicadas, arriscando suas próprias vidas para salvar pessoas em perigo, além de ter que lidar com os conflitos pessoais e os desafios que surgem por conta das diferenças entre os companheiros de equipe.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold][B]Chicago Med[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/8sWkBKCZ4FrzllsLjMQpiFxZWwM.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/qeVBKfi5B5ByQffWLC7oR6BWvdP.jpg</fanart>
+<info>[B]Sinopse:[/B]
+A série acompanha o dia-a-dia de um corajoso grupo de médicos e enfermeiros de um hospital de Chicago. Juntos, eles confrontam os casos médicos mais desafiadores de Chicago e enfrentam dilemas éticos com coragem, paixão e cuidado incomparável.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold][B]Chicago PD[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/pYpstkuLMEWfIt9Lp69w4DAb6M4.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/euv0fNNFfOFVd314c17pup96Bgj.jpg</fanart>
+<info>[B]Sinopse:[/B]
+O Distrito 21 do Departamento de Polícia de Chicado é composto pelos policiais uniformizados que lidam com o crime nas ruas e pela Unidade de Inteligência, que lida com crimes maiores como tráfico de drogas e assassinatos.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR gold][B]Emergence[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/r9nmcmP6IOIJV9K61dXIUuNWxdV.jpg</thumbnail>
 <externallink>https://</externallink>
@@ -175,6 +219,28 @@ Hope Mikaelson, descendente da linhagem mais poderosa de vampiros, lobisomens e 
 
 <channels>
 <channel>
+<name>[COLOR gold][B]Modern Family[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/9pcGXfPJa35fgksVhG4xgCzmi3c.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/x4lxFIhhrDI4nWtV8osnYwbGESV.jpg</fanart>
+<info>[B]Sinopse:[/B]
+O dia a dia de três famílias ligadas entre si. Jay Pritchett é um homem mais velho que se casa com a latina Glória, muitos anos mais nova que ele. Os dois vivem com o filho dela, Manny, e convivem diariamente com os filhos do primeiro casamento de Jay: Caire e Mitchell. Ela é uma dona de casa casada com o corretor de imóveis Phil Dunphy e que luta para dar a melhor educação para os filhos Haley, Alex e Luke.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold][B]Nancy Drew[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/cIDaPMTioB3CBJxAngDKplSYkN1.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/5whTxq9psSY5ZMxePBsAVOM5Wtw.jpg</fanart>
+<info>[B]Sinopse:[/B]
+Após a morte da mãe, Nancy Drew (Kennedy McMann) divide seu tempo trabalhando como garçonete e investigando crimes pela cidade enquanto estuda para entrar na faculdade. O assassinato de uma socialite a coloca como principal suspeita, junto com outros jovens presentes na cena do crime.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR gold][B]New Amsterdam[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/vXDupgsWKkFizWp8yPDCmAbMV4l.jpg</thumbnail>
 <externallink>https://</externallink>
@@ -208,12 +274,45 @@ Aaa</info>
 
 <channels>
 <channel>
+<name>[COLOR gold][B]SEAL Team[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/5yuIJip8YJQ2rkLs7b7JlR38WY7.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/4Y1nxoNFdPqPFvmmR9r0HXuP0mE.jpg</fanart>
+<info>[B]Sinopse:[/B]
+O SEAL Team é responsável pelas missões mais perigosas dos EUA. Acompanhe as trajetórias dos agentes desta equipe da Marinha americana.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold][B]Single Parents[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/6C4gUhBoIfN6ctohW8mkdL5mex8.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/enEzT0cP7Y5wt1xq4dcSfAyX0Go.jpg</fanart>
+<info>[B]Sinopse:[/B]
+Um grupo de pais solteiros formam o seu próprio sistema de apoio à medida que criam os seus filhos e tentam iniciar novos relacionamentos.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR gold][B]Supernatural[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/KoYWXbnYuS3b0GyQPkbuexlVK9.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/S%C3%89RIES/Supernatural/Menu</externallink>
 <fanart>https://image.tmdb.org/t/p/original/syR9msJRbbaH4iJJgNXkWEkBe5K.jpg</fanart>
 <info>[B]Sinopse:[/B]
 Os irmãos Dean e Sam vasculham o país em busca de atividades paranormais, brigando com demônios, fantasmas e monstros no caminho.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold][B]S.W.A.T.[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/ttzrYMdsKWR8PTRLw7uo4noqaOJ.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/AuY5Wuiwgc2CeuzM0I2poSe4E0x.jpg</fanart>
+<info>[B]Sinopse:[/B]
+Siga um nascido e criado S.W.A.T. tenente que está dividido entre a lealdade nas ruas e o dever para com seus colegas oficiais quando ele é encarregado de dirigir uma unidade altamente treinada que é a última parada para resolver crimes em Los Angeles.</info>
 </channel>
 </channels>
 
@@ -302,6 +401,17 @@ Zumbis dominam o mundo dos vivos, e os sobreviventes unem forças para manter vi
 <fanart>https://image.tmdb.org/t/p/original/1ZdpQK88egEU0enpQtJQGMUyBC9.jpg</fanart>
 <info>[B]Sinopse:[/B]
 Christina Aguilera, Cee Lo Green, Adam Levine (Maroon 5) e Blake Shelton são os quatro treinadores que ajudarão a formar a carreira do próximo grande talento da música americana. Durante a fase de testes, cada um dos quatro técnicos escolherão os canditados sem poder vê-los, baseando a decisão apenas na voz de cada um deles. A cada mentor cabe a tarefa de formar um time com os oito candidatos que escolher, levando a própria equipe de compositores, produtores e amigos da indústria para ajudar na evolução da equipe.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold][B]Young Sheldon[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/1vcEZVuv3ZwHUb6bm6fSWB9HTJc.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/ttbrl8AEAcR430mOZ1i4Ab2buvI.jpg</fanart>
+<info>[B]Sinopse:[/B]
+Para Sheldon, infância não é nada fácil. Um gênio da matemática e das ciências, enfrenta dificuldades no cotidiano e uma família 'normal' que busca uma forma de lidar com ele.</info>
 </channel>
 </channels>
 
