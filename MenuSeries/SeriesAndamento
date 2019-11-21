@@ -45,10 +45,54 @@ O agente Phil Coulson, visto em ação no filme “Os Vingadores”, monta uma e
 <channel>
 <name>[COLOR gold][B]All American[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/S%C3%89RIES/All%20American/Menu</externallink>
 <fanart>https://image.tmdb.org/t/p/original/2NVHFp8XkE5mi0CmeYiXUpevvn5.jpg</fanart>
 <info>[B]Sinopse:[/B]
 Dois mundos colidem quando um jogador de futebol de Compton é recrutado para um colégio em Beverly Hills.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold][B]All Rise[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/oGbww3fLBUvbBd5KqKtD5xUrcqv.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/2gu6N5sdA5HVhHyzNa40LOQaHdD.jpg</fanart>
+<info>[B]Sinopse:[/B]
+O dia-a-dia caótico e dramático de juízes, promotores e defensores públicos que trabalham em parceria com oficiais de justiça, secretários e policiais para defender e garantir os direitos dos cidadãos da cidade de Los Angeles.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold][B]Bluff City Law[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/3IrgeTW9w8AjH0jonVEfHzVFoJb.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/vJ4a1Tgc1p00WqCmZmIE08LvkOH.jpg</fanart>
+<info>[B]Sinopse:[/B]
+Sydney Strait é uma talentosa advogada que costumava trabalhar no escritório de seu pai, Elijah. Depois de passar anos sem falar com ele, a jovem é obrigada a reencontrar a família quando sua mãe morre inesperadamente. Na esperança de se reconectar com a filha, Elijah pede a Sydney que retorne a sua empresa.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold][B]Bob Hearts Abishola[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/5WicPWYh4DIQkaSgAHoyTKmeDIH.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/dt7s1pmSaGciPua0KeCBvAH57nf.jpg</fanart>
+<info>[B]Sinopse:[/B]
+A love story about a middle-aged compression sock businessman from Detroit who unexpectedly falls for his cardiac nurse, a Nigerian immigrant, while recovering from a heart attack and sets his sights on winning her over.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold][B]BULL[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/ou5ObrRmt7nAV8vMrUYKtMXmBgY.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/xFe9MQ043Nfs6DTILSMTUluMxl9.jpg</fanart>
+<info>[B]Sinopse:[/B]
+Dr. Jason Bull é o fundador de uma empresa de consultoria de sucesso que usa psicologia, intuição e dados de alta tecnologia para descobrir como pensam e agem jurados, advogados, testemunhas e acusados no tribunal.</info>
 </channel>
 </channels>
 
@@ -142,67 +186,23 @@ The Treadstone project, having created super spy Jason Bourne, turns its attenti
 
 <channels>
 <channel>
+<name>[COLOR gold][B]The Good Doctor[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/zHdy8qTrKG0szzic3FCMkCrodnq.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/mZjZgY6ObiKtVuKVDrnS9VnuNlE.jpg</fanart>
+<info>[B]Sinopse:[/B]
+Um jovem médico com autismo começa a trabalhar em um famoso hospital. Além dos desafios da profissão, ele terá também que provar sua capacidade a seus colegas e superiores.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR gold][B]The Walking Dead[/B][/COLOR]</name>
 <thumbnail>https://media.fstatic.com/6Sa_tTCmfDyLyIFW8VpbccE0NX8=/fit-in/290x478/smart/media/movies/covers/2019/07/The_walking_dead_season_10_poster.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/S%C3%89RIES/The%20Walking%20Dead/Menu</externallink>
 <fanart>https://image.tmdb.org/t/p/original/wXXaPMgrv96NkH8KD1TMdS2d7iq.jpg</fanart>
 <info>[B]Sinopse:[/B]
 Zumbis dominam o mundo dos vivos, e os sobreviventes unem forças para manter viva a raça humana.</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[COLOR gold][B]SHAZAM![/B][/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/wuicV3wiHje0Np1tb2AetTJLB9I.jpg</thumbnail>
-<externallink>https://</externallink>
-<fanart></fanart>
-<info>[B]Sinopse:[/B]
-</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[COLOR gold][B]SHAZAM![/B][/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/wuicV3wiHje0Np1tb2AetTJLB9I.jpg</thumbnail>
-<externallink>https://</externallink>
-<fanart></fanart>
-<info>[B]Sinopse:[/B]
-</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[COLOR gold][B]SHAZAM![/B][/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/wuicV3wiHje0Np1tb2AetTJLB9I.jpg</thumbnail>
-<externallink>https://</externallink>
-<fanart></fanart>
-<info>[B]Sinopse:[/B]
-</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[COLOR gold][B]SHAZAM![/B][/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/wuicV3wiHje0Np1tb2AetTJLB9I.jpg</thumbnail>
-<externallink>https://</externallink>
-<fanart></fanart>
-<info>[B]Sinopse:[/B]
-</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[COLOR gold][B]SHAZAM![/B][/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/wuicV3wiHje0Np1tb2AetTJLB9I.jpg</thumbnail>
-<externallink>https://</externallink>
-<fanart></fanart>
-<info>[B]Sinopse:[/B]
-</info>
 </channel>
 </channels>
 
