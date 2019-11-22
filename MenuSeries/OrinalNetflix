@@ -1,49 +1,5 @@
 <channels>
 <channel>
-<name>[B][COLOR gold]Sex Education[/COLOR][/B]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/extaQaaJlwNRwbskoRqX8jQMdyZ.jpg</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://image.tmdb.org/t/p/original/u23G9KZregWHs1use6ir1fX27gl.jpg</fanart>
-<info>[B]Sinopse:[/B] 
-O inseguro Otis manja tudo quando o negócio é aconselhamento sexual, graças à sua mãe sexóloga. E aí a rebelde Maeve propõe criar uma clínica de terapia sexual na escola.</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[B][COLOR gold]The Last Kingdom[/COLOR][/B]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/jR3fB56EJoFztCDnXTux8c12Z3d.jpg</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://image.tmdb.org/t/p/original/QbtctI8EzlhsyFDMUMyG3fli8B.jpg</fanart>
-<info>[B]Sinopse:[/B] 
-Enquanto Alfredo, o Grande, defende seu reino de invasões nórdicas, Uhtred - um saxão criado por vikings - planeja reivindicar o que é seu por direito.</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[B][COLOR gold]The Crown[/COLOR][/B]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/6W9W7OqGd0phj7NcKAgOqbSHNwu.jpg</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://image.tmdb.org/t/p/original/gOSYkQr8D6kSyZpuFZevGVuDho8.jpg</fanart>
-<info>[B]Sinopse:[/B] 
-Esta série dramática segue a política, rivalidades e relacionamentos da rainha Elizabeth II, e os eventos que fizeram a história.</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[COLOR gold][B]Anne with an E[/B][/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/2ZqeAvj4l3mZhit4DhT4pAJ0xfs.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/S%C3%89RIES/ANNE/Menu</externallink>
-<fanart>https://image.tmdb.org/t/p/original/ywQtHG17LZhAFZyZtBflhtFMtJ7.jpg</fanart>
-<info>[B]Sinopse:[/B]
-O mundo de Green Gables que Anne tanto adora se expande com novas pessoas e emocionantes histórias de amor, perdas e amadurecimento.</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
 <name>[B][COLOR gold]3%[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/A5Alw16Y95imaX8WOV1lngUTuXE.jpg</thumbnail>
 <externallink>https://</externallink>
@@ -77,6 +33,17 @@ Neste suspense sombrio de história alternativa, um estudante de direito ingênu
 
 <channels>
 <channel>
+<name>[COLOR gold][B]Anne with an E[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/2ZqeAvj4l3mZhit4DhT4pAJ0xfs.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/S%C3%89RIES/ANNE/Menu</externallink>
+<fanart>https://image.tmdb.org/t/p/original/ywQtHG17LZhAFZyZtBflhtFMtJ7.jpg</fanart>
+<info>[B]Sinopse:[/B]
+O mundo de Green Gables que Anne tanto adora se expande com novas pessoas e emocionantes histórias de amor, perdas e amadurecimento.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[B][COLOR gold]Altered Carbon[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/AisK4uFsnwwmMkSynFpNl0VeGR.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/AlteredCarbonSeasons</externallink>
@@ -105,17 +72,6 @@ Conheça a casa da talentosa confeiteira e artesã Christine McConnell, um lugar
 <fanart>https://image.tmdb.org/t/p/original/dQF17lG4OZ3pC4QD9iNjaMS96gO.jpg</fanart>
 <info>[B]Sinopse:[/B] 
 Entre o passado e o presente, uma família dividida confronta memórias assustadoras do antigo lar e dos eventos aterrorizantes que os expulsaram de lá.</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[B][COLOR gold]Marvel - Agent Carter[/COLOR][/B]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/7cvO8g1t0TtFwVn9qWTGmYp9DON.jpg</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://image.tmdb.org/t/p/original/5yZJ62afDczR8M0qNDNSPSFnF0w.jpg</fanart>
-<info>[B]Sinopse:[/B] 
-A série se passa em 1946, quando Peggy (Hayley Atwell) tenta se ajustar ao emprego administrativo na SSR (Reserva Científica Estratégica) e à vida de solteira, depois de perder o amor de sua vida, Steve Rogers, o Capitão América. Mas tudo muda, quando um velho conhecido, Howard Stark (Dominic Cooper), é acusado de ter liberado suas armas de destruição em massa no mercado negro. Peggy, a única pessoa em que ele confia, deve localizar os responsáveis, livrar-se das armas e limpar o nome dele.</info>
 </channel>
 </channels>
 
@@ -363,6 +319,17 @@ Beautiful executive assistant Zeina reluctantly teams up with the self-assured T
 
 <channels>
 <channel>
+<name>[B][COLOR gold]Criminal - Reino Unido[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/scFcdhqI3wsd2nGxdSe4Kj993lX.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/3BrydJp2XpdWevRbMP8ZZ0xJYrj.jpg</fanart>
+<info>[B]Sinopse:[/B] 
+Within the walls of an interrogation room and with time running out, London investigators go after three suspects, each accused of a grievous crime.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[B][COLOR gold]É o Bruno![/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/5T7QerajngWRWlNUrDg9hiruf9w.jpg</thumbnail>
 <externallink>https://</externallink>
@@ -484,6 +451,17 @@ Emilia é a primeira dama do México, uma mulher ingovernável, capaz de matar a
 
 <channels>
 <channel>
+<name>[B][COLOR gold]Marvel - Agent Carter[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/7cvO8g1t0TtFwVn9qWTGmYp9DON.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/5yZJ62afDczR8M0qNDNSPSFnF0w.jpg</fanart>
+<info>[B]Sinopse:[/B] 
+A série se passa em 1946, quando Peggy (Hayley Atwell) tenta se ajustar ao emprego administrativo na SSR (Reserva Científica Estratégica) e à vida de solteira, depois de perder o amor de sua vida, Steve Rogers, o Capitão América. Mas tudo muda, quando um velho conhecido, Howard Stark (Dominic Cooper), é acusado de ter liberado suas armas de destruição em massa no mercado negro. Peggy, a única pessoa em que ele confia, deve localizar os responsáveis, livrar-se das armas e limpar o nome dele.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[B][COLOR gold]Marvel - Demolidor[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/vmMLPAD8BXZkKPn78s3ge7kqn5T.jpg</thumbnail>
 <externallink>https://</externallink>
@@ -550,12 +528,23 @@ Bruxa e também mortal, a jovem Sabrina Spellman fica dividida entre a vida norm
 
 <channels>
 <channel>
-<name>[B][COLOR gold]The Umbrella Academy[/COLOR][/B]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/uYHdIs5O8tiU5p6MvUPd2jElOH6.jpg</thumbnail>
+<name>[B][COLOR gold]Os Inocentes[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/42B00K7JZJ2losXII0ecNJyek1V.jpg</thumbnail>
 <externallink>https://</externallink>
-<fanart>https://image.tmdb.org/t/p/original/e1izBDd01p348GSNEziK2jrHBQM.jpg</fanart>
-<info>[B]Sinopse:[/B]
-Com a morte do pai, irmãos com poderes extraordinários se reencontram e descobrem surpreendentes segredos de família – além de uma ameaça iminente à humanidade.</info>
+<fanart>https://image.tmdb.org/t/p/original/qCc07rj9NoJnqHQPYhqlxJTMB2V.jpg</fanart>
+<info>[B]Sinopse:[/B] 
+Os namorados June e Harry fogem de casa e são arrastados para um mundo confuso e perigoso quando ela começa a demonstrar habilidades misteriosas.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B][COLOR gold]Sex Education[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/extaQaaJlwNRwbskoRqX8jQMdyZ.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/u23G9KZregWHs1use6ir1fX27gl.jpg</fanart>
+<info>[B]Sinopse:[/B] 
+O inseguro Otis manja tudo quando o negócio é aconselhamento sexual, graças à sua mãe sexóloga. E aí a rebelde Maeve propõe criar uma clínica de terapia sexual na escola.</info>
 </channel>
 </channels>
 
@@ -572,17 +561,6 @@ Ambientada em Montauk, Long Island, conta a história de um menino que desaparec
 
 <channels>
 <channel>
-<name>[B][COLOR gold]Wu Assassins[/COLOR][/B]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/9T0poqtT17iWf57KDeQ77zAD78y.jpg</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://image.tmdb.org/t/p/original/cUfAQQPUINNzOdEGjtJoz2TETy4.jpg</fanart>
-<info>[B]Sinopse:[/B]
-Um simples chef de San Francisco é o mais novo entre os inúmeros assassinos escolhidos para evitar que os poderes místicos de Wu caiam em mãos erradas.</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
 <name>[B][COLOR gold]Top Boy[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/mGZpOEaLZTRzWeQMq5SZM5BbDZg.jpg</thumbnail>
 <externallink>https://</externallink>
@@ -594,23 +572,45 @@ Dois traficantes experientes retornam às ruas de Londres, onde terão de enfren
 
 <channels>
 <channel>
-<name>[B][COLOR gold]Criminal - Reino Unido[/COLOR][/B]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/scFcdhqI3wsd2nGxdSe4Kj993lX.jpg</thumbnail>
+<name>[B][COLOR gold]The Umbrella Academy[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/uYHdIs5O8tiU5p6MvUPd2jElOH6.jpg</thumbnail>
 <externallink>https://</externallink>
-<fanart>https://image.tmdb.org/t/p/original/3BrydJp2XpdWevRbMP8ZZ0xJYrj.jpg</fanart>
-<info>[B]Sinopse:[/B] 
-Within the walls of an interrogation room and with time running out, London investigators go after three suspects, each accused of a grievous crime.</info>
+<fanart>https://image.tmdb.org/t/p/original/e1izBDd01p348GSNEziK2jrHBQM.jpg</fanart>
+<info>[B]Sinopse:[/B]
+Com a morte do pai, irmãos com poderes extraordinários se reencontram e descobrem surpreendentes segredos de família – além de uma ameaça iminente à humanidade.</info>
 </channel>
 </channels>
 
 <channels>
 <channel>
-<name>[B][COLOR gold]Os Inocentes[/COLOR][/B]</name>
-<thumbnail>https://image.tmdb.org/t/p/original/42B00K7JZJ2losXII0ecNJyek1V.jpg</thumbnail>
+<name>[B][COLOR gold]The Last Kingdom[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/jR3fB56EJoFztCDnXTux8c12Z3d.jpg</thumbnail>
 <externallink>https://</externallink>
-<fanart>https://image.tmdb.org/t/p/original/qCc07rj9NoJnqHQPYhqlxJTMB2V.jpg</fanart>
+<fanart>https://image.tmdb.org/t/p/original/QbtctI8EzlhsyFDMUMyG3fli8B.jpg</fanart>
 <info>[B]Sinopse:[/B] 
-Os namorados June e Harry fogem de casa e são arrastados para um mundo confuso e perigoso quando ela começa a demonstrar habilidades misteriosas.</info>
+Enquanto Alfredo, o Grande, defende seu reino de invasões nórdicas, Uhtred - um saxão criado por vikings - planeja reivindicar o que é seu por direito.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B][COLOR gold]The Crown[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/6W9W7OqGd0phj7NcKAgOqbSHNwu.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/gOSYkQr8D6kSyZpuFZevGVuDho8.jpg</fanart>
+<info>[B]Sinopse:[/B] 
+Esta série dramática segue a política, rivalidades e relacionamentos da rainha Elizabeth II, e os eventos que fizeram a história.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B][COLOR gold]Wu Assassins[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/9T0poqtT17iWf57KDeQ77zAD78y.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/cUfAQQPUINNzOdEGjtJoz2TETy4.jpg</fanart>
+<info>[B]Sinopse:[/B]
+Um simples chef de San Francisco é o mais novo entre os inúmeros assassinos escolhidos para evitar que os poderes místicos de Wu caiam em mãos erradas.</info>
 </channel>
 </channels>
 
