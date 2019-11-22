@@ -10,6 +10,17 @@ Pelos corredores da Universidade de Oxford está Diana Bishop, uma jovem descend
 
 <channels>
 <channel>
+<name>[COLOR gold][B]A Lista Negra[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/wuicV3wiHje0Np1tb2AetTJLB9I.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/fHwiAqIKragaCbNJo9Qs4lrccIN.jpg</fanart>
+<info>[B]Sinopse:[/B]
+Após se entregar à polícia, um brilhante fugitivo oferece ajuda ao FBI, mas apenas se a novata Elizabeth Keen for sua parceira.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR gold][B]A Million Little Things[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/nTdhEcUrnyqoS4bFoTHHO6VzOLj.jpg</thumbnail>
 <externallink>https://</externallink>
@@ -175,6 +186,17 @@ A série acompanha os bastidores das operações do FBI em NY, onde os agentes M
 
 <channels>
 <channel>
+<name>[COLOR gold][B]God Friended Me[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/dqLmnu0V3qnTt2VTfpgM8qyHfeE.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/3Ff3TymR66yDC85rnpxLZbl1x0q.jpg</fanart>
+<info>[B]Sinopse:[/B]
+O auto-proclamado ateísta é encorajado a ajudar estranhos que, alguém com a conta de nome Deus, envia como sugestões de amizade a ele através do Facebook.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR gold][B]Godfather of Harlem[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/keuSsTvwX4bLsRkFfI6KzW4LVDX.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/S%C3%89RIES/Godfather_of_Harlem/Menu</externallink>
@@ -192,6 +214,17 @@ Godfather of Harlem conta a história do gangster Bumpy Johnson (Forest Whitaker
 <fanart>https://image.tmdb.org/t/p/original/9Ntaq2UBQYD7oxjkwMCH3gG5Gpk.jpg</fanart>
 <info>[B]Sinopse:[/B]
 Os médicos do Grey Sloan Memorial Hospital lidam diariamente com casos e consequências de vida ou morte. É um no outro que eles encontram apoio, conforto, amizade e, às vezes, até mais que amizade... Juntos, eles descobrem o quanto a vida profissional e a pessoal podem ser complicadas e se misturarem no meio do caminho.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold][B]Hawaii Five-0[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/sIdCKlmM2nU4akIvFQaAIiU8YES.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/ej5VNvBy4VqCqsuamY4oe4EiwFb.jpg</fanart>
+<info>[B]Sinopse:[/B]
+A equipe especial de policiais, liderada pelo comandante Steve McGarret, recebeu carta branca da governadora do Havaí para fazer o que for preciso para erradicar o crime na ilha.</info>
 </channel>
 </channels>
 
@@ -219,12 +252,34 @@ Hope Mikaelson, descendente da linhagem mais poderosa de vampiros, lobisomens e 
 
 <channels>
 <channel>
+<name>[COLOR gold][B]Madam Secretary[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/ynrH7UnfRfBRZqeV3VWGrAWQh4A.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/1Ntw5o4UxzpXepiN588U7USlNq1.jpg</fanart>
+<info>[B]Sinopse:[/B]
+A série acompanha a vida pessoal e profissional de uma Secretária de Estado que comanda a diplomacia internacional, enfrenta disputas políticas em seu escritório e equilibra uma vida familiar complexa.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR gold][B]Modern Family[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/9pcGXfPJa35fgksVhG4xgCzmi3c.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://image.tmdb.org/t/p/original/x4lxFIhhrDI4nWtV8osnYwbGESV.jpg</fanart>
 <info>[B]Sinopse:[/B]
 O dia a dia de três famílias ligadas entre si. Jay Pritchett é um homem mais velho que se casa com a latina Glória, muitos anos mais nova que ele. Os dois vivem com o filho dela, Manny, e convivem diariamente com os filhos do primeiro casamento de Jay: Caire e Mitchell. Ela é uma dona de casa casada com o corretor de imóveis Phil Dunphy e que luta para dar a melhor educação para os filhos Haley, Alex e Luke.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold][B]Mr. Robot[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/oKIBhzZzDX07SoE2bOLhq2EE8rf.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/4n0TZfTUSUELqRrOA8sZKWs9bWU.jpg</fanart>
+<info>[B]Sinopse:[/B]
+Elliot é um jovem programador que sofre de uma desordem que o torna anti-social. Acreditando que a única forma de se conectar com as pessoas é hackeando suas vidas, ele alia seu conhecimento ao fato de trabalhar em uma empresa de segurança online para proteger aqueles que ele ama daqueles que tentam, de alguma forma, prejudicá-los.</info>
 </channel>
 </channels>
 
@@ -263,6 +318,28 @@ In the early 1990s, a recently widowed, impoverished Orlando water park employee
 
 <channels>
 <channel>
+<name>[COLOR gold][B]Ray Donovan[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/v937VN30n6WKICNUw02n8Brjbvk.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/ijX8tWeMBMPwEPKNpSavyd9334r.jpg</fanart>
+<info>[B]Sinopse:[/B]
+Ray Donovan é um profissional que "consertar" problemas causados pelos ricos e famosos em Los Angeles, o que causa um grande desconforto pra sua família. Seus problemas começam a piorar quando seu pai é liberto da cadeia, e vai atrás de Ray e sua família aparentemente com boas intenções.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold][B]Santos Dumont[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/4yVtl6XcxT2kaFel8YP8o0l0yf2.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/796jJyEjAq3avQTt0YF2kTcFULD.jpg</fanart>
+<info>[B]Sinopse:[/B]
+A história do visionário criador que deu ao antigo sonho de voar forma e realidade. A vida, a ambição, a consagração e a melancolia de um gênio da mecânica com alma de poeta: Santos Dumont.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR gold][B]SEE[/B][/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/S%C3%89RIES/SEE/Menu</externallink>
@@ -285,6 +362,17 @@ O SEAL Team é responsável pelas missões mais perigosas dos EUA. Acompanhe as 
 
 <channels>
 <channel>
+<name>[COLOR gold][B]Silicon Valley[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/dc5r71XI1gD4YwIUoEYCLiVvtss.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/8vk5R31KG5UQTAwTVEBxn65NSB.jpg</fanart>
+<info>[B]Sinopse:[/B]
+A aclamada comédia original da HBO promete uma divertida conclusão para nossos queridos heróis tecnológicos, enquanto os garotos da Pied Piper lidam com o estresse de administrar uma organização em crescimento.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR gold][B]Single Parents[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/6C4gUhBoIfN6ctohW8mkdL5mex8.jpg</thumbnail>
 <externallink>https://</externallink>
@@ -302,6 +390,17 @@ Um grupo de pais solteiros formam o seu próprio sistema de apoio à medida que 
 <fanart>https://image.tmdb.org/t/p/original/syR9msJRbbaH4iJJgNXkWEkBe5K.jpg</fanart>
 <info>[B]Sinopse:[/B]
 Os irmãos Dean e Sam vasculham o país em busca de atividades paranormais, brigando com demônios, fantasmas e monstros no caminho.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold][B]Shameless[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/m2gf7SYOq9z30Q1dJFMF51DfrmF.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/1ccgQ6IJyEc8UHPtGeFFeRqMVnc.jpg</fanart>
+<info>[B]Sinopse:[/B]
+Situada em Chicago, a família Gallagher, uma família da classe trabalhadora de oito pessoas, terá de sobreviver aos altos e baixos da recessão de hoje. Com uma mãe que está fora de cena e um pai alcoólatra que geralmente acaba desmaiado no chão da sala, e com sua filha Fione, de 18 anos de idade, que tem a tarefa de manter seus cinco irmãos e irmãs na linha reta. Esta série é baseada na série britânica de mesmo nome.</info>
 </channel>
 </channels>
 
@@ -401,6 +500,17 @@ Zumbis dominam o mundo dos vivos, e os sobreviventes unem forças para manter vi
 <fanart>https://image.tmdb.org/t/p/original/1ZdpQK88egEU0enpQtJQGMUyBC9.jpg</fanart>
 <info>[B]Sinopse:[/B]
 Christina Aguilera, Cee Lo Green, Adam Levine (Maroon 5) e Blake Shelton são os quatro treinadores que ajudarão a formar a carreira do próximo grande talento da música americana. Durante a fase de testes, cada um dos quatro técnicos escolherão os canditados sem poder vê-los, baseando a decisão apenas na voz de cada um deles. A cada mentor cabe a tarefa de formar um time com os oito candidatos que escolher, levando a própria equipe de compositores, produtores e amigos da indústria para ajudar na evolução da equipe.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold][B]Van Helsing[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/bYkzYM1Ps81PZgkuF3mPzSsxGtd.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/iudXgng9XSdA0zB5eySmYIga9CY.jpg</fanart>
+<info>[B]Sinopse:[/B]
+Vanessa Van Helsing é ressuscitada depois de cinco anos morta e descobre que o mundo foi tomado por vampiros. Agora ela precisa lutar para manter vivo o legado de seu pai Abraham.</info>
 </channel>
 </channels>
 
