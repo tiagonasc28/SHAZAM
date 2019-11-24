@@ -1,4 +1,13 @@
 <item>
+<title>[B][COLOR gold]teste[/COLOR][/B]</title>
+<thumbnail>https://image.tmdb.org/t/p/original/czVjj5W113Aggz8fmtiW5bY1Vsz.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fOdbXYcLTthRYlOA77LkKI9fxu3.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12O7YpL2H5PdYysKc9huzQe306_AfWH0a/view?usp=drivesdk</link>
+<info>[B]SINOPSE: [/B]
+A origem de Alfred, o famoso mordomo de Bruce Wayne, em uma época onde ele era apenas um soldado britânico de 22 anos do Serviço Aéreo Especial do Reino Unido. Na Londres de 1960, Alfred é contratado para trabalhar como segurança do bilionário Thomas Wayne, e os dois tornam-se amigos improváveis.</info>
+</item>
+
+<item>
 <title>[B][COLOR gold]Episódio 1[/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/czVjj5W113Aggz8fmtiW5bY1Vsz.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/fOdbXYcLTthRYlOA77LkKI9fxu3.jpg</fanart>
