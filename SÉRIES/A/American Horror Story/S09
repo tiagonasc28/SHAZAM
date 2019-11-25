@@ -18,12 +18,39 @@
 </item>
 
 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<channel>
+<title>The Pirate Bay - HD - Movies</title>
+<link>http://thepiratebay.org</link>
+<description>The top100 torrents from The Pirate Bay</description>
+<language>en</language>
+<pubDate>Sun, 03 Nov 2019 20:00:27 +0100</pubDate>
+<lastBuildDate>Sun, 03 Nov 2019 20:00:27 +0100</lastBuildDate>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<generator>TPB RSS Generator 1.2</generator>
 <item>
-<title>[COLOR lawngreen][B]IT CHAPTER 2[/B][/COLOR] 2019</title>
-<genere>It Capítulo dois</genere>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b3bd9532897ec9df6b9dd22bcc23403cc826192&amp$$lsname=[COLOR blue] IT CHAPTER 2 2019[/COLOR]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=bKL1ImsN-DU</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMGUzM2YxZTMtMTlkNi00OTI0LTljNTEtZDQzYjQ1Y2ZhZWY3XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg</thumbnail>
-<fanart>https://m.media-amazon.com/images/M/MV5BMGUzM2YxZTMtMTlkNi00OTI0LTljNTEtZDQzYjQ1Y2ZhZWY3XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg</fanart>
-<info>Vinte e sete anos depois dos eventos que chocaram os adolescentes que faziam parte do Clube dos Perdedores, os amigos realizam uma reunião. No entanto, o reencontro se torna uma verdadeira e sangrenta batalha quando Pennywise, o palhaço, retorna.</info>
+<title>
+<![CDATA[ The.Lion.King.2019.1080p.BRRip.x264-MP4 ]]>
+</title>
+<link>
+magnet:?xt=urn:btih:F4C231734DF63E05D214B08308D2EF93210C1858&dn=The.Lion.King.2019.1080p.BRRip.x264-MP4
+</link>
+<comments>http://thepiratebay.org/torrent/34851445</comments>
+<pubDate>Fri, 11 Oct 2019 17:04:10 +0200</pubDate>
+<category domain="http://thepiratebay.org/browse/207">
+<![CDATA[ Video / HD - Movies ]]>
+</category>
+<dc:creator>
+<![CDATA[ MrStark ]]>
+</dc:creator>
+<guid>http://thepiratebay.org/torrent/34851445/</guid>
+<torrent xmlns="http://xmlns.ezrss.it/0.1/">
+<contentLength>2006491817</contentLength>
+<infoHash>F4C231734DF63E05D214B08308D2EF93210C1858</infoHash>
+<magnetURI>
+<![CDATA[
+magnet:?xt=urn:btih:F4C231734DF63E05D214B08308D2EF93210C1858&amp;dn=The.Lion.King.2019.1080p.BRRip.x264-MP4
+]]>
+</magnetURI>
+</torrent>
 </item>
