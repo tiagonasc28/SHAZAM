@@ -1,7 +1,7 @@
 <item>
 <title>[COLOR orange][B]American Horror Story SEASON 9[/B][/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/uR2K0Ui9UsOqnzb5IrV6tLUcUHl.jpg</thumbnail>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a3abdcd6483a1391c00cf1d021e1f19dd850acf&dn=American.Horror.Story.S09.WEBRip.x264-ION10&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2780&tr=udp%3A%2F%2F9.rarbg.to%3A2750</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a3abdcd6483a1391c00cf1d021e1f19dd850acf&dn=American.Horror.Story.S09.WEBRip.x264-ION10&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2780&tr=udp%3A%2F%2F9.rarbg.to%3A2750&amp$$lsname=[COLOR blue] American Horror Story SEASON 9[/COLOR]</link>
 <fanart>https://image.tmdb.org/t/p/original/1gGRY9bnIc0Jaohgc6jNFidjgLK.jpg</fanart>
 <info>[B]Sinopse:[/B]
 É uma série de terror e suspense, que, a cada temporada, conta uma nova história centrada em um tema e com praticamente todo o elenco da temporada anterior interpretando novos e completamente diferentes personagens.</info>
@@ -18,3 +18,11 @@
 </item>
 
 
+<item>
+<title>[COLOR lawngreen][B]IT CHAPTER 2[/B][/COLOR] 2019</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:faf54e295a60d14ceaf6d16930492e4b301243e7&amp$$lsname=[COLOR blue] IT CHAPTER 2 2019[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=bKL1ImsN-DU</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMGUzM2YxZTMtMTlkNi00OTI0LTljNTEtZDQzYjQ1Y2ZhZWY3XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMGUzM2YxZTMtMTlkNi00OTI0LTljNTEtZDQzYjQ1Y2ZhZWY3XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg</fanart>
+<info>Vinte e sete anos depois dos eventos que chocaram os adolescentes que faziam parte do Clube dos Perdedores, os amigos realizam uma reunião. No entanto, o reencontro se torna uma verdadeira e sangrenta batalha quando Pennywise, o palhaço, retorna.</info>
+</item>
