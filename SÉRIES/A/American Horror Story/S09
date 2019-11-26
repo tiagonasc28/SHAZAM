@@ -10,7 +10,7 @@
 <item>
 <title>[COLOR orangered][B]American Horror Story S09E01[/B][/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/uR2K0Ui9UsOqnzb5IrV6tLUcUHl.jpg</thumbnail>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9917824a4901357c45d0f0f1c618896990151ce3&dn=American.Horror.Story.S09E01.HDTV.x264-SVA%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2770&tr=udp%3A%2F%2F9.rarbg.to%3A2760</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B6648F28645D536273E61481D8A6B0CF0ACC265B</link>
 <genre>American.Horror.Story.S09E01.HDTV.x264</genre>
 <fanart>https://image.tmdb.org/t/p/original/1gGRY9bnIc0Jaohgc6jNFidjgLK.jpg</fanart>
 <info>[B]Sinopse:[/B]
@@ -18,37 +18,3 @@
 </item>
 
 
-<title>The Pirate Bay - HD - Movies</title>
-<link>http://thepiratebay.org</link>
-<description>The top100 torrents from The Pirate Bay</description>
-<language>en</language>
-<pubDate>Sun, 03 Nov 2019 20:00:27 +0100</pubDate>
-<lastBuildDate>Sun, 03 Nov 2019 20:00:27 +0100</lastBuildDate>
-<docs>http://blogs.law.harvard.edu/tech/rss</docs>
-<generator>TPB RSS Generator 1.2</generator>
-<item>
-<title>
-<![CDATA[ The.Lion.King.2019.1080p.BRRip.x264-MP4 ]]>
-</title>
-<link>
-magnet:?xt=urn:btih:F4C231734DF63E05D214B08308D2EF93210C1858&dn=The.Lion.King.2019.1080p.BRRip.x264-MP4
-</link>
-<comments>http://thepiratebay.org/torrent/34851445</comments>
-<pubDate>Fri, 11 Oct 2019 17:04:10 +0200</pubDate>
-<category domain="http://thepiratebay.org/browse/207">
-<![CDATA[ Video / HD - Movies ]]>
-</category>
-<dc:creator>
-<![CDATA[ MrStark ]]>
-</dc:creator>
-<guid>http://thepiratebay.org/torrent/34851445/</guid>
-<torrent xmlns="http://xmlns.ezrss.it/0.1/">
-<contentLength>2006491817</contentLength>
-<infoHash>F4C231734DF63E05D214B08308D2EF93210C1858</infoHash>
-<magnetURI>
-<![CDATA[
-magnet:?xt=urn:btih:F4C231734DF63E05D214B08308D2EF93210C1858&amp;dn=The.Lion.King.2019.1080p.BRRip.x264-MP4
-]]>
-</magnetURI>
-</torrent>
-</item>
