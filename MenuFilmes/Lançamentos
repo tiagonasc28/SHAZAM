@@ -1,16 +1,8 @@
-
-<item>
-<title>[B][COLOR orange]Altitude - 720HD[/B][/COLOR][COLOR lime] Torrent [COLOR yellow] Requiere Quasar[/COLOR][/COLOR]</title>
-<link>plugin://plugin.video.mega?mode=streamURL&amp;url=https://mega.nz/#!SfxWxYpB!sUmPmdGhM3wlJ1DbiLwvI1TToYWKn-zKScjQP9NYhI8?usp=drivesdk</link>
-<fanart>http://www.dvdsreleasedates.com/posters/300/A/Altitude-2017.jpg</fanart>
-<thumbnail>http://www.dvdsreleasedates.com/posters/300/A/Altitude-2017.jpg</thumbnail>
-</item>
-
-
 <item>
 <title>[B]STUBER: A CORRIDA MALUCA[/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/bopJPyP68dJEjO7i0gUrYMYC0Eh.jpg</thumbnail>
-<link>http://cdnfe3.azureedge.net/RCFServer3/ondemand/STBRACRDAMLCA.mp4?attachment=true</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24a55133ea39591f1a0dfad408bfe22a4c8f8bdd$$lsname=[COLOR red]HD[/COLOR] - DUB</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:566e6c870ffe1d81a79e6b465b506b57433b8bfd$$lsname=[COLOR red]HD[/COLOR] - LEG</link>
 <fanart>https://image.tmdb.org/t/p/original/xgfn98c2UzvFWP6MXDzytearmQ3.jpg</fanart>
 <info>[B]SINOPSE:[/B]
 Quando Stu (Kumail Nanjiani), um motorista da Uber, é recrutado por um policial (Dave Bautista) para ajudá-lo a investigar  o paradeiro de um brutal assassino, algumas regras precisam ser quebradas. Seguindo as poucas pistas que possuem para seguir o traço do criminoso, eles cada vez se complicam mais na perseguição desenfreada.</info>
