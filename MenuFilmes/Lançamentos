@@ -12,8 +12,8 @@ Quando Stu (Kumail Nanjiani), um motorista da Uber, é recrutado por um policial
 <title>[B]CORINGA[/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/tNMAhvD6IvEQk6xUn1qweyvmt00.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/f5F4cRhQdUbyVbB5lTNCwUzD6BP.jpg</fanart>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6cc1c258c2673089df2a47ed3017bb6cf23336e8$$lsname=[COLOR red]HD[/COLOR] - LEG</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b3ea6a5b1e62537dceb67230248ff092a723e4d$$lsname=[COLOR red]HD[/COLOR] - LEG</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6cc1c258c2673089df2a47ed3017bb6cf23336e8$$lsname=[COLOR red]Joker[/COLOR] - DUB</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b3ea6a5b1e62537dceb67230248ff092a723e4d$$lsname=[COLOR red]Joker[/COLOR] - LEG</link>
 <info>[B]SINOPSE:[/B]
 Coringa é uma história original do vilão nunca antes vista no cinema. Arthur Fleck (Joaquin Phoenix) trabalha como palhaço para uma agência de talentos e, toda semana, precisa comparecer a uma agente social, devido aos seus conhecidos problemas mentais. Após ser demitido, Fleck reage mal à gozação de três homens em pleno metrô e os mata. Os assassinatos iniciam um movimento popular contra a elite de Gotham City, da qual Thomas Wayne (Brett Cullen) é seu maior representante. A versão de Phillips sobre Arthur Fleck, um homem desprezado pela sociedade, não é só uma visão realista do personagem, mas também uma lição de vida.</info>
 </item>
@@ -24,7 +24,8 @@ Coringa é uma história original do vilão nunca antes vista no cinema. Arthur 
 <title>[B]O Exterminador do Futuro: Destino Sombrio[/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/n3UPpv92zviV5l0tPMPB8pSgPSm.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/a6cDxdwaQIFjSkXf7uskg78ZyTq.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10VW6L4QDrgot2Xtz5XkbnqdM1n6ve8zb/view?usp=drivesdk</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:afa8488a6ef4afa24cb20658254c247eb92265c8$$lsname=[COLOR red]Terminator: Dark Fate[/COLOR] - DUB</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e5c79160702633ce191db39761c22f831cedc71d$$lsname=[COLOR red]Terminator: Dark Fate[/COLOR] - LEG</link>
 <info>[B]SINOPSE:[/B]
 Na sexta aventura da saga Exterminador do Futuro, Arnold Schwarzenegger interpreta novamente o papel icônico de T-800, enquanto Linda Hamilton encarna mais uma vez Sarah Connor.</info>
 </item>
