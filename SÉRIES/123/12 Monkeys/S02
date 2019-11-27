@@ -1,8 +1,9 @@
 <item>
-<title>[COLOR lime][B]EM BREVE![/B][/COLOR]</title>
+<title>[COLOR lime][B]12 Monkeys S02[/B][/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/9ThglVQvuExDvTOx3weUJVupCZH.jpg</thumbnail>
-<link>plugin://plugin.video.elementum/play?uri=magnet</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DCA2B6AF1DF26356D71D2E6F451E464B2BFA6949</link>
 <fanart>https://image.tmdb.org/t/p/original/rD0Rbvga3B1YDrQzIWs7tC1FSwx.jpg</fanart>
 <info>[B]PRECISA TER O ELEMENTUM INSTALADO[/B]
 Pesquise sua legenda no OpenSubtitles ou no Elementum!</info>
+<genre>12.Monkeys.S02</genre>
 </item>
