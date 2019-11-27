@@ -1,8 +1,9 @@
 <item>
-<title>[COLOR white][B]Episódio 1[/B][/COLOR]</title>
+<title>[COLOR lime][B]Temporada Completa - Dual Áudio[/B][/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/9ThglVQvuExDvTOx3weUJVupCZH.jpg</thumbnail>
-<link>plugin://plugin.video.elementum/play?uri=magnet</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9ea6d7d442f76434ebdc4f222799314007851a9</link>
 <fanart>https://image.tmdb.org/t/p/original/rD0Rbvga3B1YDrQzIWs7tC1FSwx.jpg</fanart>
 <info>[B]PRECISA TER O ELEMENTUM INSTALADO[/B]
 Pesquise sua legenda no OpenSubtitles ou no Elementum!</info>
+<genre>12.Monkeys.S01</genre>
 </item>
