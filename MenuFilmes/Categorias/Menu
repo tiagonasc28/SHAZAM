@@ -1,1 +1,11 @@
-
+<channels>
+<channel>
+<name>[B][COLOR gold]Animação[COLOR/][/B]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>plugin://plugin.video.elementum/play?uri=magnet$$lsname=[COLOR gold]Nome Original[/COLOR] - DUB</externallink>
+<genre>[COLOR white]2019[/COLOR]</genre>
+<info>[B]SINOPSE:[/B]
+</info>
+</channel>
+</channels>
