@@ -36,12 +36,15 @@
 </item>
 
 <item>
-<title>[B][COLOR white]NOME[COLOR/][/B]</title>
+<title>[B][COLOR white]it[COLOR/][/B]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<link>plugin://plugin.video.elementum/play?uri=magnet$$lsname=[COLOR gold]Nome Original[/COLOR] - DUB</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet$$lsname=[COLOR gold]Nome Original[/COLOR] - LEG</link>
-<genre>[COLOR lime]2019[/COLOR]</genre>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1fc2cb53c8b440e7e43eb53dee6a21b1fdd4734c&dn=It.Chapter.Two.2019.1080p.BluRay.H264.AAC-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2780&tr=udp%3A%2F%2F9.rarbg.to%3A2750$$lsname=[COLOR gold]Nome Original[/COLOR] - DUB</link>
+<link>plugin://plugin.video.elementum/It Chapter Two?uri=magnet:?xt=urn:btih:1fc2cb53c8b440e7e43eb53dee6a21b1fdd4734c$$lsname=[COLOR gold]Nome Original[/COLOR] - LEG</link>
+<description>It Chapter Two 2019</description>
+<search>It.Chapter.Two.2019.1080p.BluRay.H264.AAC-RARBG</search>
+<year>2019</year>
+<genre>[COLOR lime]FILMES - SHAZAM! [/COLOR]</genre>
 <info>[B]SINOPSE:[/B]
 </info>
 </item>
