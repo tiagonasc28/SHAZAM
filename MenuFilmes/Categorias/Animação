@@ -26,8 +26,10 @@
 <title>[B][COLOR white]NOME[COLOR/][/B]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<link>plugin://plugin.video.elementum/play?uri=magnet$$lsname=[COLOR gold]Nome Original[/COLOR] - DUB</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet$$lsname=[COLOR gold]Nome Original[/COLOR] - LEG</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ac9d4d5340ed050514d9dc4fec87f316d4cbe7d$$lsname=[COLOR gold]The Secret Life of Pets 2[/COLOR] - DUAL</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:800fd212eae3d875a70b25c671c6c42c4da1eb7d$$lsname=[COLOR gold]The Secret Life of Pets 2[/COLOR] - LEG</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ea6ee08dffb8d6a527d80ca0dbf67f2164472ff$$lsname=[COLOR gold]The Secret Life of Pets 2[/COLOR] - LEG</link>
+<filtering>The.Secret.Life.of.Pets.2</filtering>
 <genre>[COLOR lime]2019[/COLOR]</genre>
 <info>[B]SINOPSE:[/B]
 </info>
