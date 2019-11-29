@@ -1,20 +1,22 @@
 <item>
-<title>[B][COLOR white]NOME[COLOR/][/B]</title>
+<title>[B][COLOR white]O Rei Leão[COLOR/][/B]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<link>plugin://plugin.video.elementum/play?uri=magnet$$lsname=[COLOR gold]Nome Original[/COLOR] - DUB</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet$$lsname=[COLOR gold]Nome Original[/COLOR] - LEG</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e31714f3830c679589cca35c99f781b320cb1b03$$lsname=[COLOR gold]The Lion King[/COLOR] - DUAL</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:388c90bc655e85bd860c0ffe62c4f48c45042bbb$$lsname=[COLOR gold]The Lion King[/COLOR] - LEG</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1fc02ca13171f58147403c1f66ba3d1e0d5760a8$$lsname=[COLOR gold]The Lion King[/COLOR] - 4k DUAL</link>
 <genre>[COLOR lime]2019[/COLOR]</genre>
 <info>[B]SINOPSE:[/B]
 </info>
 </item>
 
 <item>
-<title>[B][COLOR white]NOME[COLOR/][/B]</title>
+<title>[B][COLOR white]Toy Story 4[COLOR/][/B]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<link>plugin://plugin.video.elementum/play?uri=magnet$$lsname=[COLOR gold]Nome Original[/COLOR] - DUB</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet$$lsname=[COLOR gold]Nome Original[/COLOR] - LEG</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8913d8b4cd0ae31e377dc638a3b758a8f65ce4e7$$lsname=[COLOR gold]Toy Story 4[/COLOR] - DUB</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b9c7dd6e98fbb2965706d3719d846c0f2e1367a$$lsname=[COLOR gold]Toy Story 4[/COLOR] - LEG</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:158d16235fb88a2e89abbd7afaf52db6aa9a01fe$$lsname=[COLOR gold]Toy Story 4[/COLOR] - 4k DUAL</link>
 <genre>[COLOR lime]2019[/COLOR]</genre>
 <info>[B]SINOPSE:[/B]
 </info>
