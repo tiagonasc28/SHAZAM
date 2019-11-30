@@ -1,10 +1,11 @@
-<channel>
-<name>[B]4k[/B]</name>
+<item>
+<title>[B]pág 2[/B]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>http://</externallink>
-<info></info>
-</channel>
+<link>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/MenuFilmes/OriginalNetflix</link>
+<info>[B]SINOPSE:[/B]
+</info>
+</item>
 
 <item>
 <title>[B]STUBER: A CORRIDA MALUCA[/B]</title>
