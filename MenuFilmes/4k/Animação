@@ -69,10 +69,30 @@
 </item>
 
 <item>
-<title>[B][COLOR white]ANIMAÇÃO[/COLOR][/B]</title>
+<title>[B][COLOR white]Liga da Justiça: Os Cinco Fatais[/COLOR][/B]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<link>plugin://plugin.video.elementum/play?uri=magnet</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7369e9b68ee0c4f2d7bae77e55ad838708cfe2e</link>
+<genre>[B][COLOR gold]2019[/COLOR][/B]</genre>
+<info>[B]Precisa ter o Elementum instalado![/B]
+</info>
+</item>
+
+<item>
+<title>[B][COLOR white]Homem-Aranha: No Aranhaverso[/COLOR][/B]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:894ebf5dd5adb37107cfb5aae94c15eed1bb9735</link>
+<genre>[B][COLOR gold]2019[/COLOR][/B]</genre>
+<info>[B]Precisa ter o Elementum instalado![/B]
+</info>
+</item>
+
+<item>
+<title>[B][COLOR white]WiFi Ralph: Quebrando a Internet[/COLOR][/B]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0eb427e4cbb25e8d9c3d8745e7b8994051f96081</link>
 <genre>[B][COLOR gold]2019[/COLOR][/B]</genre>
 <info>[B]Precisa ter o Elementum instalado![/B]
 </info>
@@ -83,7 +103,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>plugin://plugin.video.elementum/play?uri=magnet</link>
-<genre>[B][COLOR gold]2019[/COLOR][/B]</genre>
+<genre>[B][COLOR gold]2018[/COLOR][/B]</genre>
 <info>[B]Precisa ter o Elementum instalado![/B]
 </info>
 </item>
@@ -93,27 +113,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>plugin://plugin.video.elementum/play?uri=magnet</link>
-<genre>[B][COLOR gold]2019[/COLOR][/B]</genre>
-<info>[B]Precisa ter o Elementum instalado![/B]
-</info>
-</item>
-
-<item>
-<title>[B][COLOR white]ANIMAÇÃO[/COLOR][/B]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>plugin://plugin.video.elementum/play?uri=magnet</link>
-<genre>[B][COLOR gold]2019[/COLOR][/B]</genre>
-<info>[B]Precisa ter o Elementum instalado![/B]
-</info>
-</item>
-
-<item>
-<title>[B][COLOR white]ANIMAÇÃO[/COLOR][/B]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>plugin://plugin.video.elementum/play?uri=magnet</link>
-<genre>[B][COLOR gold]2019[/COLOR][/B]</genre>
+<genre>[B][COLOR gold]2018[/COLOR][/B]</genre>
 <info>[B]Precisa ter o Elementum instalado![/B]
 </info>
 </item>
