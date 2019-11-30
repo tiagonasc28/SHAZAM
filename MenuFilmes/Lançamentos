@@ -1,13 +1,4 @@
 <item>
-<title>[B]pág 2[/B]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/MenuFilmes/OriginalNetflix</link>
-<info>[B]SINOPSE:[/B]
-</info>
-</item>
-
-<item>
 <title>[B]STUBER: A CORRIDA MALUCA[/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/bopJPyP68dJEjO7i0gUrYMYC0Eh.jpg</thumbnail>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24a55133ea39591f1a0dfad408bfe22a4c8f8bdd$$lsname=[COLOR red]HD[/COLOR] - DUB</link>
