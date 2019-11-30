@@ -1,11 +1,12 @@
 <channels>
 <channel>
 <name>[B][COLOR gold]1ª TEMPORADA[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/A5xf95cZZ4SouWdizUufrmrDQ9M.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/mzzHr6g1yvZ05Mc7hNj3tUdy2bM.jpg</fanart>
 <externallink>https://</externallink>
-<genre>[B][COLOR white]2019[/COLOR][/B]</genre>
-<info>[B]Precisa ter o Elementum instalado![/B]
+<genre>[B][COLOR white]2013[/COLOR][/B]</genre>
+<info>[B]Sinopse: [/B]
+O brilhante cientista beberrão Rick sequestra Morty, seu neto aborrescente, para viver loucuras em outros mundos e dimensões alternativas.
 </info>
 </channel>
 </channels>
