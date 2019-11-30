@@ -129,10 +129,10 @@
 </item>
 
 <item>
-<title>[B][COLOR white]ANIMAÇÃO[/COLOR][/B]</title>
+<title>[B][COLOR white]teste[/COLOR][/B]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3dbe9b48c38eb8893f8fdadc441a3c0fe36a85f0</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d73e373f01cf307ef073a910d8566212a3a638c9</link>
 <genre>[B][COLOR gold]2018[/COLOR][/B]</genre>
 <info>[B]Precisa ter o Elementum instalado![/B]
 </info>
