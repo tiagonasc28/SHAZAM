@@ -1,28 +1,8 @@
 <item>
-<title>[B][COLOR red]TESTE[/COLOR][/B]</title>
-<thumbnail>https://image.tmdb.org/t/p/original/czVjj5W113Aggz8fmtiW5bY1Vsz.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/fOdbXYcLTthRYlOA77LkKI9fxu3.jpg</fanart>
-<link>https://cdnfe1.azureedge.net/hls1/tnt-26688.ts</link>
-<genre>[COLOR gold]SHAZAM![/COLOR]</genre>
-<info>[B]SINOPSE: [/B]
-A origem de Alfred, o famoso mordomo de Bruce Wayne, em uma época onde ele era apenas um soldado britânico de 22 anos do Serviço Aéreo Especial do Reino Unido. Na Londres de 1960, Alfred é contratado para trabalhar como segurança do bilionário Thomas Wayne, e os dois tornam-se amigos improváveis.</info>
-</item>
-
-<item>
-<title>[B][COLOR red]twd[/COLOR][/B]</title>
-<thumbnail>https://image.tmdb.org/t/p/original/czVjj5W113Aggz8fmtiW5bY1Vsz.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/fOdbXYcLTthRYlOA77LkKI9fxu3.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12O7YpL2H5PdYysKc9huzQe306_AfWH0a/view?usp=drivesdk</link>
-<genre>[COLOR gold]SHAZAM![/COLOR]</genre>
-<info>[B]SINOPSE: [/B]
-A origem de Alfred, o famoso mordomo de Bruce Wayne, em uma época onde ele era apenas um soldado britânico de 22 anos do Serviço Aéreo Especial do Reino Unido. Na Londres de 1960, Alfred é contratado para trabalhar como segurança do bilionário Thomas Wayne, e os dois tornam-se amigos improváveis.</info>
-</item>
-
-<item>
 <title>[B][COLOR gold]Episódio 1[/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/czVjj5W113Aggz8fmtiW5bY1Vsz.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/fOdbXYcLTthRYlOA77LkKI9fxu3.jpg</fanart>
-<link>https://cdnfe1.azureedge.net/hls1/tnt.m3u8?wmsAuthSign=</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1125mg_2_7IeiBXPk1GIfucmI8d7nHYsu/view?usp=drivesdk</link>
 <info>[B]SINOPSE: [/B]
 A origem de Alfred, o famoso mordomo de Bruce Wayne, em uma época onde ele era apenas um soldado britânico de 22 anos do Serviço Aéreo Especial do Reino Unido. Na Londres de 1960, Alfred é contratado para trabalhar como segurança do bilionário Thomas Wayne, e os dois tornam-se amigos improváveis.</info>
 </item>
