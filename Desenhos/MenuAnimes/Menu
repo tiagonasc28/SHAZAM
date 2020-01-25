@@ -1,5 +1,18 @@
 <channels>
 <channel>
+<name>[COLOR gold][B]BORUTO[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8mOnjRGfHjCJmp0vEmNviz6InS.jpg</thumbnail>
+<externallink>http://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/nGCO2COpakW8SlCBTbcBPLADvmt.jpg</fanart>
+<genre>[B][COLOR darkcyan]Ação, Artes Marcial, Aventura, Shounen, Super-Poderes[/COLOR][/B]</genre>
+<info>[B]Sinopse:[/B]
+A Vila Oculta da Folha entrou numa era de paz e modernidade. Prédios altos cerceiam as ruas, telas gigantes brilham com imagens, e a Linha Trovão corre pela vila, conectando os distritos. Embora continue sendo uma vila ninja, o número de civis aumentou, e a vida dos shinobi começou a mudar.
+Boruto Uzumaki, filho de Naruto Uzumaki, o Sétimo Hokage, se inscreveu na Academia Ninja para aprender a ser um verdadeiro ninja. Os outros estudantes o ignoram por ser “apenas o filho do Hokage”, mas a paixão e a personalidade do Boruto vai acabar com todos esses preconceitos.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR gold][B]DR. STONE[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/osckOWkDJ0aZYdJYo2pxj8m6Jqk.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/Desenhos/MenuAnimes/DR.%20STONE/MENU</externallink>
@@ -7,6 +20,18 @@
 <genre>[B][COLOR darkcyan]Aventura, Sci-Fi, Shounen[/COLOR][/B]</genre>
 <info>[B]Sinopse:[/B]
 Em um instante, todos os humanos do mundo viraram pedra. Este acontecimento misterioso envolveu o estudante Taiju, depois de milhares de anos, ele e o seu amigo Senku despertam e decidem reconstruir a civilização do zero! E assim começa uma grande e única aventura de sobrevivência num mundo de ficção científica!</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold][B]DORORO[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqPESGckTZtGx0LVelIAEF7KSqX.jpg</thumbnail>
+<externallink>http://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/uSYDqRA2YYQVYJ6EcxgivjG4C62.jpg</fanart>
+<genre>[B][COLOR darkcyan]Ação, Aventura, Demônios, Historia, Shounen, Sobrenatural[/COLOR][/B]</genre>
+<info>[B]Sinopse:[/B]
+Um senhor samurai trocou os órgãos do seu filho recém-nascido por 48 demônios em troca do domínio no campo de batalha. No entanto, o bebê abandonado sobrevive graças a um curandeiro que o equipa com próteses primitivas – armas letais que o garoto usará para caçar a multidão de demônios para recuperar seu corpo um pedaço de cada vez, antes de confrontar seu pai. Em suas viagens, o jovem herói encontra um órfão que afirma ser o maior ladrão do Japão.</info>
 </channel>
 </channels>
 
@@ -24,13 +49,37 @@ Na história existe um fenômeno sem explicação que aterroriza a humanidade, a
 
 <channels>
 <channel>
-<name>[B][COLOR gold]Yakusoku no Neverland[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/Desenhos/MenuAnimes/Yakusoku%20no%20Neverland/Menu</externallink>
-<genre>[B][COLOR white]2019[/COLOR][/B]</genre>
-<info>[B]Precisa ter o Elementum instalado![/B]
-</info>
+<name>[COLOR gold][B]Fate/Grand Order: Zettai Majuu Sensen Babylonia[/B][/COLOR]</name>
+<thumbnail>https://www.animestc.com/wp-content/uploads/2019/10/102955l.jpg</thumbnail>
+<externallink>http://</externallink>
+<fanart>https://pmcvariety.files.wordpress.com/2019/09/fate-grand-order-absolute-demonic-front-babylonia.jpg?w=1000&h=563&crop=1</fanart>
+<genre>[B][COLOR darkcyan]Ação, Fantasia, Magia, Supernatural[/COLOR][/B]</genre>
+<info>[B]Sinopse:[/B]
+Adaptação da rota de mesmo nome do jogo Fate Grand Order.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold][B]HIGH SCORE[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEulZeRA71H3TOCcQD4G37lUpPx.jpg</thumbnail>
+<externallink>http://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/7hqQU3PDMwUaRlnNNeYY8DjIqIR.jpg</fanart>
+<genre>[B][COLOR darkcyan]Comédia, Romance, Seinen, Vida Escolar[/COLOR][/B]</genre>
+<info>[B]Sinopse:[/B]
+A história segue Yaguchi Haruo, um garoto da sexta série no ano de 1991 que ama videogames. Na escola ele não é popular e não se dá bem com os professores. Os únicos com quem ele se dá bem são os videogames. Um dia ele encontra Oono Akira no fliperama, uma garota de sua sala que é inteligente, popular e adorada pelos professores. Ambos se enfrentam em uma partida de Street Fighter II, e continuam por um bom tempo, até que Haruo desiste após perder 30 partidas. Akira se mostra invencível em qualquer jogo. Akira começa a seguir Haruo em todas as suas partidas para derrotá-lo, sendo este um começo de uma estranha amizade.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold][B]MAJUTSUSHI ORPHEN HAGURE TABI[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eBJWsby7xOLIKRpVaw28zPsb2LG.jpg</thumbnail>
+<externallink>http://</externallink>
+<fanart>https://www.animenew.com.br/wp-content/uploads/2019/08/orphen.jpg</fanart>
+<genre>[B][COLOR darkcyan]Ação, Artes Marciais, Aventura, Drama, Fantasia[/COLOR][/B]</genre>
+<info>[B]Sinopse:[/B]
+Um feiticeiro que já foi o melhor aluno da famosa Torre das Presas, agora passa o tempo perseguindo seus clientes desesperados como prestamista, pelo menos até que seu cliente elabore um plano para ganhar dinheiro: fraude no casamento. Sem querer ser arrastado para o plano, Orphen encontra um monstro que tem sido seu objetivo desde o dia em que deixou a Torre de Presas. Entre aqueles que procuram matar o monstro e Orphen, dando tudo para proteger o monstro, seus péssimos, mas pacíficos dias terminam. Tentar voltar sua irmã, Azalie, de volta à sua verdadeira forma, leva a muitos mais mistérios e à chave do segredo do mundo.</info>
 </channel>
 </channels>
 
@@ -40,7 +89,7 @@ Na história existe um fenômeno sem explicação que aterroriza a humanidade, a
 <thumbnail>https://img1.ak.crunchyroll.com/i/spire2/cccce22d1dfaaf713284a617ee0b539a1572467883_full.jpg</thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/Desenhos/MenuAnimes/My%20Hero%20Academia/Menu</externallink>
-<genre>[B][COLOR white]2019[/COLOR][/B]</genre>
+<genre>[B][COLOR darkcyan]2019[/COLOR][/B]</genre>
 <info>[B]Precisa ter o Elementum instalado![/B]
 </info>
 </channel>
@@ -48,14 +97,48 @@ Na história existe um fenômeno sem explicação que aterroriza a humanidade, a
 
 <channels>
 <channel>
-<name>[COLOR gold][B]Kimetsu no Yaiba[/B][/COLOR]</name>
+<name>[COLOR gold][B]KIMETSU NO YAIBA[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/xDvsHZ0e3zO1uWuVy4KEYttPIMF.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/Desenhos/MenuAnimes/Kimetsu%20no%20Yaiba/Menu</externallink>
 <fanart>https://image.tmdb.org/t/p/original/iBAtBLqCMON3NPIjyQ1wdMbpTAk.jpg</fanart>
-<genre>[B][COLOR blue]Ação,Histórico,Shounen,Sobrenatural[/COLOR][/B]</genre>
+<genre>[B][COLOR darkcyan]Ação,Histórico,Shounen,Sobrenatural[/COLOR][/B]</genre>
 <info>[B]Sinopse:[/B]
 Japão, era Taisho. Tanjiro, um bondoso jovem que ganha a vida vendendo carvão, descobre que sua família foi massacrada por um demônio. E pra piorar, Nezuko, sua irmã mais nova e única sobrevivente, também foi transformada num demônio. Arrasado com esta sombria realidade, Tanjiro decide se tornar um matador de demônios para fazer sua irmã voltar a ser humana, e para matar o demônio que matou sua família. Um triste conto sobre dois irmãos, onde os destinos dos humanos e dos demônios se entrelaçam, começa agora.</info>
 </channel>
 </channels>
 
+<channels>
+<channel>
+<name>[COLOR gold][B]RADIANT[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPgjtFvf62BT6EbjGYPt9AwGP2.jpg</thumbnail>
+<externallink>http://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/s1kpON3AlLJ2DnJkEAOmBT0v3NU.jpg</fanart>
+<genre>[B][COLOR darkcyan]Ação, Aventura, Fantasia, Magia[/COLOR][/B]</genre>
+<info>[B]Sinopse:[/B]
+Seth é um aspirante feiticeiro da área de Pompo Hills. Como todos os magos, ele é um "infectado", um dos poucos seres vivos que sobreviveram ao contato das criaturas Nêmesis caídas do céu que contaminam e dizimam todo aquele contato. Sendo imune a eles, Seth quer se tornar um Caçador e lutar contra o Nêmesis. Mas mais do que isso, Seth quer se envolver em uma missão que vai além da simples busca por monstros. Ele quer encontrar o Radiant, seu berço presumido. Ajudado por uma facção de companheiros feiticeiros, ele viajou pelo mundo em busca do Radiante, sob o rigoroso escrutínio da Inquisição.</info>
+</channel>
+</channels>
 
+<channels>
+<channel>
+<name>[COLOR gold][B]SARAZANMAI[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRWF8xDA9ZGuvbFE8NLGZoBRuqK.jpg</thumbnail>
+<externallink>http://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/yj1iNFqEzdaRJ9T0gMmFVM76RS9.jpg</fanart>
+<genre>[B][COLOR darkcyan]Ação, Fantasia, Sobrenatural[/COLOR][/B]</genre>
+<info>[B]Sinopse:[/B]
+Um dia, em Asakusa, três estudantes do fundamental – Kazuki Yasaka, Toi Kuji e Enta Jinnai – conhecem Keppi, um misterioso kappa que rouba suas jóias místicas e os transforma em kappas. Para voltar para sua forma original, eles precisam enfrentar kappas zumbis e roubar as jóias místicas deles. Será que os garotos conseguirão estabelecer laços entre si para roubar as jóias dos zumbis? Ao mesmo tempo, algo estranho está acontecendo na delegacia onde trabalham Reo Niiboshi e Mabu Akutsu. Esta é a história de três garotos que não conseguem se conectar com alguém que lhes é importante, e estão aprendendo o verdadeiro significado dessas conexões.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold][B]YAKUSOKU NO NEVERLAND[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sKCm6vJbDq64zcfHNOY67ltLns.jpg</thumbnail>
+<externallink>http://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/A3Jj3A0XkFGRalTBmuzXTItMGd5.jpg</fanart>
+<genre>[B][COLOR darkcyan]Demônios, Horror, Mistério, Sci-Fi, Shounen[/COLOR][/B]</genre>
+<info>[B]Sinopse:[/B]
+Emma é uma órfã que vive no orfanato Grace Field House junto com outros órfãos. Dentre todos eles, Emma, Norman e Ray são os mais velhos e os únicos que ​​conseguem as pontuações mais altas em testes. Emma observa que, enquanto eles são capazes de fazer o que querem, não podem sair do orfanato para irem ao mundo exterior. Uma noite, a menina Conny, uma das crianças órfãs, é adotada e se despede do orfanato. Emma descobre que Conny deixou seu coelho de pelúcia Bernie para trás. Junto com Norman, ela vai atrás de Conny. No entanto, eles ficam chocados ao descobrirem que ela está morta e a casa onde vivem é na verdade uma fazenda onde eles são criados e colhidos para se tornarem alimentos de criaturas demoníacas.</info>
+</channel>
+</channels>
