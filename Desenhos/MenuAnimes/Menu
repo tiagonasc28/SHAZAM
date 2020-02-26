@@ -97,6 +97,18 @@ Um feiticeiro que já foi o melhor aluno da famosa Torre das Presas, agora passa
 
 <channels>
 <channel>
+<name>[COLOR gold][B]Nanatsu no Taizai[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/3pzQv4g1wcbrSh7zCis0S27O2Ih.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/Desenhos/MenuAnimes/Nanatsu%20no%20Taizai/s03</externallink>
+<fanart>https://image.tmdb.org/t/p/original/2Caqkb1m9qL6hJu7ftvE7LbRYJt.jpg</fanart>
+<genre>[B][COLOR darkcyan]Ação, Aventura, Fantasia, Magia, Shounen, Supernatural[/COLOR][/B]</genre>
+<info>[B]Sinopse:[/B]
+Depois que seu reino é dominado por tiranos, uma princesa tenta encontrar um grupo de cavaleiros perigosos para ajudá-la a recuperar suas terras.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR gold][B]KIMETSU NO YAIBA[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/xDvsHZ0e3zO1uWuVy4KEYttPIMF.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/Desenhos/MenuAnimes/Kimetsu%20no%20Yaiba/Menu</externallink>
