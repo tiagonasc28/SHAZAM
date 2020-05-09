@@ -1,4 +1,13 @@
 <item>
+<title>[B]EMMA[/B]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzVlyZRQQnYe0rDuLrHSnVtDD3j.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/l111ATIHwHQPL9dHKV5Lix85Azq.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINK?usp=drivesdk</link>
+<info>[B]SINOPSE:[/B]
+Emma Woodhouse é uma jovem rica e inteligente, que não tem pretensões de se casar tão cedo, para ficar sempre perto do pai. Porém, isso não a impede de dar uma de 'casamenteira', tentando juntar casais que considere apropriados entre seus conhecidos, sem perceber os problemas causados com sua imaginação e teimosia.</info>
+</item>
+
+<item>
 <title>[B]STUBER: A CORRIDA MALUCA[/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/bopJPyP68dJEjO7i0gUrYMYC0Eh.jpg</thumbnail>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24a55133ea39591f1a0dfad408bfe22a4c8f8bdd$$lsname=[COLOR red]HD[/COLOR] - DUB</link>
@@ -17,8 +26,6 @@ Quando Stu (Kumail Nanjiani), um motorista da Uber, é recrutado por um policial
 <info>[B]SINOPSE:[/B]
 Coringa é uma história original do vilão nunca antes vista no cinema. Arthur Fleck (Joaquin Phoenix) trabalha como palhaço para uma agência de talentos e, toda semana, precisa comparecer a uma agente social, devido aos seus conhecidos problemas mentais. Após ser demitido, Fleck reage mal à gozação de três homens em pleno metrô e os mata. Os assassinatos iniciam um movimento popular contra a elite de Gotham City, da qual Thomas Wayne (Brett Cullen) é seu maior representante. A versão de Phillips sobre Arthur Fleck, um homem desprezado pela sociedade, não é só uma visão realista do personagem, mas também uma lição de vida.</info>
 </item>
-
-
 
 <item>
 <title>[B]O Exterminador do Futuro: Destino Sombrio[/B]</title>
@@ -79,7 +86,7 @@ Columbus (Jesse Eisenberg), Tallahassee (Woody Harrelson), Wichita (Emma Stone) 
 Um thriller de ação inovador com Will Smith no papel de Henry Brogan, um assassino de elite, que se torna no alvo de perseguição de um jovem e misterioso agente secreto que parece ser capaz de prever todos os seus movimentos. O filme é realizado pelo vencedor de um Óscar®, Ang Lee, e produzido pelos prestigiados Jerry Bruckheimer, David Ellison, Dana Goldberg e Don Granger. Fazem, também, parte do elenco Mary Elizabeth Winstead, Clive Owen e Benedict Wong.</info>
 </item>
 
-<item>
+<item>/
 <title>[B]A Família Addams 2019[/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/1zsLHfcsuOoYBWnn77fMAgFFUTY.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/ur4NTeFGZmQ6Hz5uEkAMgPI3WRg.jpg</fanart>
@@ -297,13 +304,3 @@ Max se vê enganado por Katie no primeiro trailer da animação e acaba dentro d
 <info>[B]SINOPSE:[/B]
 </info>
 </item>
-
-<item>
-<title>[B][/B]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>plugin://plugin.video.elementum/play?uri=magnet$$lsname=[COLOR lime]Nome Original[/COLOR] - DUB</link>
-<info>[B]SINOPSE:[/B]
-</info>
-</item>
-
