@@ -1,9 +1,53 @@
 <item>
+<title>[B]NOME[/B]</title>
+<thumbnail>LINK</thumbnail>
+<fanart>LINK</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINK?usp=drivesdk$$lsname=[COLOR red]GDRIVE[/COLOR] - LEG</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LINK$$lsname=[COLOR red]ELEMENTUM[/COLOR] - DUB</link>
+<genre></genre>
+<info>[B]SINOPSE:[/B]
+DESCRIÇÃO</info>
+</item>
+
+<item>
+<title>[B]Apanhador de Pesadelos[/B]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eflBDSsJbe1Zy2CcOwWoK2XdX6r.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/wRreALASTO4nXsrJKTwqTLyNjal.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINK?usp=drivesdk$$lsname=[COLOR red]GDRIVE[/COLOR] - LEG</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LINK$$lsname=[COLOR red]ELEMENTUM[/COLOR] - DUB</link>
+<genre>Terror, Thriller</genre>
+<info>[B]SINOPSE:[/B]
+Neste aterrorizante thriller de terror, Gail (Radha Mitchell, Silent Hill) é forçada a entrar em acordo com Josh, seu novo enteado, em uma remota casa de campo. Depois de roubar um talismã maligno de um vizinho misterioso, Josh tem sonhos sinistros de sua mãe morta – que ordena que Josh assassine Gail. Quando o pai de Josh (Henry Thomas, “A Assombração da Casa da Colina”) retorna, ele e Gail suspeitam que seu filho tenha sido possuído por um espírito antigo e sedento de sangue. É tarde demais para salvar a vida de Josh – ou a deles?</info>
+</item>
+
+<item>
+<title>[B]Mentiras Perigosas[/B]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YDBuPDDIfxtYQpawlHjGL4hL8w.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tuqv0jb0o7sBOivgkagKJHuO6X4.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINK?usp=drivesdk$$lsname=[COLOR red]GDRIVE[/COLOR] - LEG</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LINK$$lsname=[COLOR red]ELEMENTUM[/COLOR] - DUB</link>
+<genre>Thriller</genre>
+<info>[B]SINOPSE:[/B]
+Ao se tornar a única herdeira de um paciente, a cuidadora Katie acaba envolta em uma rede de mentiras e assassinato. Para sobreviver, ela não pode confiar em ninguém – nem mesmo nas pessoas que ama.</info>
+</item>
+
+<item>
+<title>[B]Dias Sem Fim[/B]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7yIIzC2PZVwlRGqzIDwrSm8O48k.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9XCnndiIzsWibZhxPoo8EV04fzr.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINK?usp=drivesdk$$lsname=[COLOR red]GDRIVE[/COLOR] - LEG</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LINK$$lsname=[COLOR red]ELEMENTUM[/COLOR] - DUB</link>
+<genre>Drama</genre>
+<info>[B]SINOPSE:[/B]
+Condenado à pena perpétua, um jovem negro recorda as pessoas, as circunstâncias e o sistema que o levaram a cometer um crime.</info>
+</item>
+
+<item>
 <title>[B]EMMA[/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzVlyZRQQnYe0rDuLrHSnVtDD3j.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/l111ATIHwHQPL9dHKV5Lix85Azq.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-8ft3DyoSP6lrcgBRN3JHUwi8bkQaEu9/view?usp=drivesdk$$lsname=[COLOR red]GDRIVE[/COLOR] - LEG</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d0430d70e8c653f140fc6bc151dccba21cb18fcd$$lsname=[COLOR red]ELEMENTUM[/COLOR] - DUB</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINK?usp=drivesdk$$lsname=[COLOR red]GDRIVE[/COLOR] - LEG</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LINK$$lsname=[COLOR red]ELEMENTUM[/COLOR] - DUB</link>
 <genre>Comédia, Drama, Romance</genre>
 <info>[B]SINOPSE:[/B]
 Emma Woodhouse é uma jovem rica e inteligente, que não tem pretensões de se casar tão cedo, para ficar sempre perto do pai. Porém, isso não a impede de dar uma de 'casamenteira', tentando juntar casais que considere apropriados entre seus conhecidos, sem perceber os problemas causados com sua imaginação e teimosia.</info>
@@ -26,7 +70,7 @@ Kate (Mackenzie Davis) é uma jovem professora contratada para trabalhar como go
 <fanart>https://image.tmdb.org/t/p/original/25oEpqNkaqhYKnhg0o0oEcGF4hB.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINK?usp=drivesdk$$lsname=[COLOR red]GDRIVE[/COLOR] - LEG</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LINK$$lsname=[COLOR red]ELEMENTUM[/COLOR] - DUB</link>
-<genre>Terror,Mistério</genre>
+<genre>Terror, Mistério</genre>
 <info>[B]SINOPSE:[/B]
 Depois que uma jovem mãe mata sua família em sua própria casa, uma mãe solteira e um jovem detetive tentam investigar e resolver o caso. Mais tarde, ela descobre que a casa é amaldiçoada por um fantasma vingativo que condena aqueles que entram nela com uma morte violenta. Agora, ela corre para salvar a si mesma e a seu filho dos espíritos demoníacos da casa amaldiçoada em seu bairro.</info>
 </item>
@@ -65,34 +109,16 @@ O Dr. Dolittle vive com uma variedade de animais exóticos e conversa com eles d
 </item>
 
 <item>
-<title>[B]NOME[/B]</title>
-<thumbnail>LINK</thumbnail>
-<fanart>LINK</fanart>
+<title>[B]Escape from Pretória[/B]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/u8BB4Xl5jUFILutZ6F5NOQvVcWB.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8JT7cbAvZoiXCoRPB90sBPpkpcQ.jpg</fanart>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINK?usp=drivesdk$$lsname=[COLOR red]GDRIVE[/COLOR] - LEG</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LINK$$lsname=[COLOR red]ELEMENTUM[/COLOR] - DUB</link>
+<genre>Drama, História, Thriller</genre>
 <info>[B]SINOPSE:[/B]
-DESCRIÇÃO</info>
+A história real de Tim Jenkin e Stephen Lee, jovens sul-africanos brancos declarados “terroristas” e presos em 1978 por trabalharem em operações secretas para o ANC, grupo de Nelson Mandela. Encarcerados na prisão de segurança máxima de Pretória, eles decidem enviar uma mensagem clara ao regime do apartheid e fugir! Com engenhosidade de tirar o fôlego, vigilância meticulosa e chaves de madeira criadas para 10 portas de aço, eles fazem um grande caminho até a liberdade.</info>
 </item>
 
-<item>
-<title>[B]NOME[/B]</title>
-<thumbnail>LINK</thumbnail>
-<fanart>LINK</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINK?usp=drivesdk$$lsname=[COLOR red]GDRIVE[/COLOR] - LEG</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LINK$$lsname=[COLOR red]ELEMENTUM[/COLOR] - DUB</link>
-<info>[B]SINOPSE:[/B]
-DESCRIÇÃO</info>
-</item>
-
-<item>
-<title>[B]NOME[/B]</title>
-<thumbnail>LINK</thumbnail>
-<fanart>LINK</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINK?usp=drivesdk$$lsname=[COLOR red]GDRIVE[/COLOR] - LEG</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LINK$$lsname=[COLOR red]ELEMENTUM[/COLOR] - DUB</link>
-<info>[B]SINOPSE:[/B]
-DESCRIÇÃO</info>
-</item>
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 <item>
 <title>[B]STUBER: A CORRIDA MALUCA[/B]</title>
