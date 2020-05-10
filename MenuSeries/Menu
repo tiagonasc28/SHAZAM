@@ -1,20 +1,20 @@
 <channels>
 <channel>
-<name>[B][COLOR gold]SÉRIES EM ANDAMENTO[/COLOR][/B]</name>
+<name>[B][COLOR gold]INICIADAS EM 2020[/COLOR][/B]</name>
 <thumbnail>http://abre.ai/aq2e</thumbnail>
-<externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/MenuSeries/SeriesAndamento</externallink>
+<externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/MenuSeries/Iniciadas2020</externallink>
 <fanart>https://i.redd.it/yumdef2gbnr21.png</fanart>
-<info>TEMPORADAS RECENTES E EM ANDAMENTO!</info>
+<info>SERIES RECENTES!</info>
 </channel>
 </channels>
 
 <channels>
 <channel>
-<name>[B][COLOR gold]SÉRIES FINALIZADAS[/COLOR][/B]</name>
+<name>[B][COLOR gold]TEMPORADAS RECENTES[/COLOR][/B]</name>
 <thumbnail>http://abre.ai/aq2e</thumbnail>
 <externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/MenuSeries/SeriesFinalizadas</externallink>
 <fanart>https://i.redd.it/yumdef2gbnr21.png</fanart>
-<info>SERIES FINALIZADAS E CANCELADAS!</info>
+<info>ULTIMAS TEMPORADAS ADICIONADAS</info>
 </channel>
 </channels>
 
