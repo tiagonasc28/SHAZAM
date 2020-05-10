@@ -20,10 +20,21 @@
 
 <channels>
 <channel>
+<name>[B][COLOR gold]OUTRAS[/COLOR][/B]</name>
+<thumbnail>http://abre.ai/aq2e</thumbnail>
+<externallink>LINK</externallink>
+<fanart>https://i.redd.it/yumdef2gbnr21.png</fanart>
+<info>CATÁLOGO DE SERIES</info>
+<genre>Suas series estão aqui.</genre>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[B][COLOR blue]DC[/COLOR][COLOR yellow]VS[/COLOR][COLOR white]MARVEL[/COLOR][/B]</name>
 <thumbnail>http://abre.ai/aq2e</thumbnail>
 <externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/MenuSeries/DC%20COMICS</externallink>
 <fanart>https://i.redd.it/yumdef2gbnr21.png</fanart>
-<info>SÉRIES DA DC DUBLADO E LEGENDADO!</info>
+<info>SÉRIES QUE VINHERAM DOS HQs</info>
 </channel>
 </channels>
