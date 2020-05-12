@@ -2,7 +2,7 @@
 <title>[B]NOME[/B]</title>
 <thumbnail>LINK</thumbnail>
 <fanart>LINK</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINK?usp=drivesdk$$lsname=[COLOR red]GDRIVE[/COLOR] - LEG</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14eaedNjGAds8050sYRZOLChR55vtNdMa/view?usp=drivesdk$$lsname=[COLOR red]GDRIVE[/COLOR] - LEG</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:169f79d496f4f132ae89f3424ab3d4b2bf2cc6ed$$lsname=[COLOR red]ELEMENTUM[/COLOR] - DUB</link>
 <genre></genre>
 <info>[B]SINOPSE:[/B]
