@@ -1,12 +1,11 @@
 <item>
-<title>[B]NOME[/B]</title>
-<thumbnail>LINK</thumbnail>
+<title>[B]Por Lugares Incríveis[/B]</title>
+<thumbnail>https://image.tmdb.org/t/p/w342/xhQ3s1kdq1rVzq3xQNcOzvhwzTG.jpg</thumbnail>
 <fanart>LINK</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14eaedNjGAds8050sYRZOLChR55vtNdMa/view?usp=drivesdk$$lsname=[COLOR red]GDRIVE[/COLOR] - LEG</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce27fff5ba1cc38022461ea0b192ccb4a5e49993$$lsname=[COLOR red]ELEMENTUM[/COLOR] - DUB</link>
-<genre></genre>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:768eb92455d9cb46cb5df0c4a900e7090251a61e</link>
+<genre>Romance</genre>
 <info>[B]SINOPSE:[/B]
-DESCRIÇÃO</info>
+Dois adolescentes que estão passando por momentos difíceis criam um forte laço quando embarcam em uma jornada transformadora para visitar as maravilhas de Indiana.</info>
 </item>
 
 <item>
