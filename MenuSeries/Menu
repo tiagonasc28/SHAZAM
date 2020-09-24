@@ -1,15 +1,5 @@
 <channels>
 <channel>
-<name>[B][COLOR gold]INICIADAS EM 2020[/COLOR][/B]</name>
-<thumbnail>http://abre.ai/aq2e</thumbnail>
-<externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/MenuSeries/Iniciadas2020</externallink>
-<fanart>https://i.redd.it/yumdef2gbnr21.png</fanart>
-<info>SERIES RECENTES!</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
 <name>[B][COLOR gold]TEMPORADAS RECENTES[/COLOR][/B]</name>
 <thumbnail>http://abre.ai/aq2e</thumbnail>
 <externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/MenuSeries/TemporadasRecentes</externallink>
@@ -20,22 +10,11 @@
 
 <channels>
 <channel>
-<name>[B][COLOR gold]OUTRAS[/COLOR][/B]</name>
+<name>[B][COLOR gold]SERIES[/COLOR][/B]</name>
 <thumbnail>http://abre.ai/aq2e</thumbnail>
-<externallink>LINK</externallink>
+<externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/MenuSeries/Series</externallink>
 <fanart>https://i.redd.it/yumdef2gbnr21.png</fanart>
 <info>CATÁLOGO DE SERIES</info>
 <genre>[I][COLOR darkcyan]Suas series estão aqui.[/COLOR][/I]</genre>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[B][COLOR blue]DC[/COLOR] vs[COLOR red] MARVEL[/COLOR][/B]</name>
-<thumbnail>http://abre.ai/aq2e</thumbnail>
-<externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/MenuSeries/DC%20COMICS</externallink>
-<fanart>https://i.redd.it/yumdef2gbnr21.png</fanart>
-<info>SÉRIES QUE VINHERAM DOS HQs</info>
-<genre>[I][COLOR darkcyan]Algumas series que vinheram dos HQs[/I][/COLOR]</genre>
 </channel>
 </channels>
