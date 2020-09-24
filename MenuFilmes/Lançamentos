@@ -1,4 +1,32 @@
+<item>
+<title>[B]Muito amor pra dar[/B]</title>
+<thumbnail>https://image.tmdb.org/t/p/w342/uSwCLbElGgz7HzWEHwnSfQtP2OC.jpg</thumbnail>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ce58dafe7a8b62f18af99beaec1fd7372d7661f</link>
+<fanart>IMAGEM DE FUNDO</fanart>
+<genre>[COLOR green]Comédia[/COLOR]</genre>
+<info>[B]Sinopse:[/B]
+Fernando é um homem tão dedicado à família que tem até duas. Mas um acidente coloca todos em rota de colisão.</info>
+</item>
 
+<item>
+<title>[B]Remédio Amargo[/B]</title>
+<thumbnail>https://image.tmdb.org/t/p/w342/sKXMGJ9gSf9QKbvKParlEVcYjus.jpg</thumbnail>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f79a076a7b7cdbfbb395b270d795ecfc73e53c0</link>
+<fanart>IMAGEM DE FUNDO</fanart>
+<genre>[COLOR green]Suspense, Drama[/COLOR]</genre>
+<info>[B]Sinopse:[/B]
+Ángel (Mario Casas) trabalha como paramédico em serviços emergenciais. Após sofrer um terrível acidente, sua vida ao lado de Vane (Déborah François) começa a sucumbir. Obcecado com a ideia de que ela está sendo infiel, ele entrará numa espiral de paranoia da qual será difícil sair.</info>
+</item>
+
+<item>
+<title>[B]O Diabo de Cada Dia[/B]</title>
+<thumbnail>https://image.tmdb.org/t/p/w342/spqWjgLWvWlluIodXFn1SsNtISC.jpg</thumbnail>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0adab08ac8a3cceb17066198603712e1e8ce5581</link>
+<fanart>IMAGEM DE FUNDO</fanart>
+<genre>[COLOR green]Crime, Drama, Suspense[/COLOR]</genre>
+<info>[B]Sinopse:[/B]
+Em um lugar tomado por corrupção e violência, um jovem enfrenta figuras sinistras para proteger quem mais ama.</info>
+</item>
 
 <item>
 <title>[B]Um Crime para Dois[/B]</title>
