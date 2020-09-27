@@ -2,11 +2,12 @@
 <title>[B][COLOR blue]Episódio 1[/COLOR][/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/osckOWkDJ0aZYdJYo2pxj8m6Jqk.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/1Ep6YHL5QcrNC1JN6RYalWRPopi.jpg</fanart>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-8ft3DyoSP6lrcgBRN3JHUwi8bkQaEu9/view?usp=drivesdk</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79347da13a88c65078a973c82f340705927277ca</link>
 <genre>[B][COLOR gold]Aventura, Sci-Fi, Shounen[/COLOR][/B]</genre>
 <info>[B]Sinopse: [/B]
 Em um instante, todos os humanos do mundo viraram pedra. Este acontecimento misterioso envolveu o estudante Taiju, depois de milhares de anos, ele e o seu amigo Senku despertam e decidem reconstruir a civilização do zero! E assim começa uma grande e única aventura de sobrevivência num mundo de ficção científica!</info>
 </item>
+
 
 <item>
 <title>[B][COLOR blue]Episódio 2[/COLOR][/B]</title>
