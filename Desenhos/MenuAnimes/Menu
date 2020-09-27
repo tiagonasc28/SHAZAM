@@ -25,18 +25,6 @@ Boruto Uzumaki, filho de Naruto Uzumaki, o Sétimo Hokage, se inscreveu na Acade
 
 <channels>
 <channel>
-<name>[COLOR gold][B]DR. STONE[/B][/COLOR]</name>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/osckOWkDJ0aZYdJYo2pxj8m6Jqk.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/Desenhos/MenuAnimes/DR.%20STONE/MENU</externallink>
-<fanart>https://image.tmdb.org/t/p/original/1Ep6YHL5QcrNC1JN6RYalWRPopi.jpg</fanart>
-<genre>[B][COLOR darkcyan]Aventura, Sci-Fi, Shounen[/COLOR][/B]</genre>
-<info>[B]Sinopse:[/B]
-Em um instante, todos os humanos do mundo viraram pedra. Este acontecimento misterioso envolveu o estudante Taiju, depois de milhares de anos, ele e o seu amigo Senku despertam e decidem reconstruir a civilização do zero! E assim começa uma grande e única aventura de sobrevivência num mundo de ficção científica!</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
 <name>[COLOR gold][B]DORORO[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqPESGckTZtGx0LVelIAEF7KSqX.jpg</thumbnail>
 <externallink>http://</externallink>
@@ -160,6 +148,18 @@ Um dia, em Asakusa, três estudantes do fundamental – Kazuki Yasaka, Toi Kuji 
 <name>[COLOR gold][B]YAKUSOKU NO NEVERLAND[/B][/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sKCm6vJbDq64zcfHNOY67ltLns.jpg</thumbnail>
 <externallink>http://</externallink>
+<fanart>https://image.tmdb.org/t/p/original/A3Jj3A0XkFGRalTBmuzXTItMGd5.jpg</fanart>
+<genre>[B][COLOR darkcyan]Demônios, Horror, Mistério, Sci-Fi, Shounen[/COLOR][/B]</genre>
+<info>[B]Sinopse:[/B]
+Emma é uma órfã que vive no orfanato Grace Field House junto com outros órfãos. Dentre todos eles, Emma, Norman e Ray são os mais velhos e os únicos que ​​conseguem as pontuações mais altas em testes. Emma observa que, enquanto eles são capazes de fazer o que querem, não podem sair do orfanato para irem ao mundo exterior. Uma noite, a menina Conny, uma das crianças órfãs, é adotada e se despede do orfanato. Emma descobre que Conny deixou seu coelho de pelúcia Bernie para trás. Junto com Norman, ela vai atrás de Conny. No entanto, eles ficam chocados ao descobrirem que ela está morta e a casa onde vivem é na verdade uma fazenda onde eles são criados e colhidos para se tornarem alimentos de criaturas demoníacas.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR gold][B]TESTES[/B][/COLOR]</name>
+<thumbnail>CAPA</thumbnail>
+<externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/Desenhos/MenuAnimes/ANIMES%20TESTE/MENU</externallink>
 <fanart>https://image.tmdb.org/t/p/original/A3Jj3A0XkFGRalTBmuzXTItMGd5.jpg</fanart>
 <genre>[B][COLOR darkcyan]Demônios, Horror, Mistério, Sci-Fi, Shounen[/COLOR][/B]</genre>
 <info>[B]Sinopse:[/B]
