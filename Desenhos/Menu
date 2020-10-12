@@ -1,5 +1,17 @@
 <channels>
 <channel>
+<name>[B][COLOR gold]Criando[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/tiagonasc28/SHAZAM/master/Desenhos/Criando</externallink>
+<genre>[B][COLOR white]2019[/COLOR][/B]</genre>
+<info>[B]Precisa ter o Elementum instalado![/B]
+</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[B][COLOR gold]DESENHOS[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
