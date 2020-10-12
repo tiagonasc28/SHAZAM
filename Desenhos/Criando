@@ -1,3 +1,9 @@
+import resolveurl as urlresolver
+resolved = urlresolver.resolve(url)
+
+import resolveurl as urlresolver
+resolved = urlresolver.resolve(https://dood.to/e/x0lzgd0hzwi8)
+
 <item>
 <title>[B]doodstream[/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w342/9NkIvN0A602Y4Ewa2h2dHSl8n9A.jpg</thumbnail>
