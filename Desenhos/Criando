@@ -12,9 +12,9 @@ resolved = urlresolver.resolve(url)
 </item>
 
 <item>
-<title>[B]sendvid[/B]</title>
+<title>[B]aparat[/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w342/9NkIvN0A602Y4Ewa2h2dHSl8n9A.jpg</thumbnail>
-<link>https://sendvid.com/m50oqmzs</link>
+<link>https://s2.aparat.cam/hls/aoqo7diyvcrrba5uh2prk5cfdzxm26xt5f7tcmxlyismjaiu2mvxvxahmugq/index-v1-a1.m3u8</link>
 <fanart>https://lovingnewyork.com.br/wp-content/uploads/2016/01/Dollarphotoclub_93398145.jpg</fanart>
 <genre>[COLOR green]Drama, Suspense[/COLOR]</genre>
 <info>[B]Sinopse:[/B]
@@ -22,9 +22,19 @@ resolved = urlresolver.resolve(url)
 </item>
 
 <item>
-<title>[B]testendo fembed2[/B]</title>
+<title>[B]xvideosharing[/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w342/9NkIvN0A602Y4Ewa2h2dHSl8n9A.jpg</thumbnail>
 <link>http://d.xvideosharing.com:8080/hls/soqk4yke7giuzuemjuuv6vqrg55n47wxvzpo2cykkne5jmgsr2ffgclazdja/index-v1-a1.m3u8</link>
+<fanart>https://lovingnewyork.com.br/wp-content/uploads/2016/01/Dollarphotoclub_93398145.jpg</fanart>
+<genre>[COLOR green]Drama, Suspense[/COLOR]</genre>
+<info>[B]Sinopse:[/B]
+</info>
+</item>
+
+<item>
+<title>[B]nxload[/B]</title>
+<thumbnail>https://image.tmdb.org/t/p/w342/9NkIvN0A602Y4Ewa2h2dHSl8n9A.jpg</thumbnail>
+<link>https://snowfire.nxload.com/hls/kMprKTE2BgbYLlO2DO9is-3SEmh95IQancGT86FQKcQrZOTW3ak1nGHwVqGDFFmZSdvgvoiplrRw0zhX6Jk1IQDv1w5E1ltH5p5wZJBPWhTz8Y8EZpqRT0yPTzFmLGco6TX8sJj8aP/index-v1-a1.m3u8</link>
 <fanart>https://lovingnewyork.com.br/wp-content/uploads/2016/01/Dollarphotoclub_93398145.jpg</fanart>
 <genre>[COLOR green]Drama, Suspense[/COLOR]</genre>
 <info>[B]Sinopse:[/B]
