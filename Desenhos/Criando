@@ -2,7 +2,7 @@ import resolveurl as urlresolver
 resolved = urlresolver.resolve(url)
 
 <item>
-<title>[B]NxLoad[/B]</title>
+<title>[B]pixeldrain[/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w342/9NkIvN0A602Y4Ewa2h2dHSl8n9A.jpg</thumbnail>
 <link>https://pixeldrain.com/api/file/hY6Tqjnc</link>
 <fanart>https://lovingnewyork.com.br/wp-content/uploads/2016/01/Dollarphotoclub_93398145.jpg</fanart>
@@ -12,7 +12,7 @@ resolved = urlresolver.resolve(url)
 </item>
 
 <item>
-<title>[B]NxLoad2[/B]</title>
+<title>[B]pixeldrain2[/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w342/9NkIvN0A602Y4Ewa2h2dHSl8n9A.jpg</thumbnail>
 <link>https://pixeldrain.com/u/hY6Tqjnc</link>
 <fanart>https://lovingnewyork.com.br/wp-content/uploads/2016/01/Dollarphotoclub_93398145.jpg</fanart>
