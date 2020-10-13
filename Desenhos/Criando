@@ -2,9 +2,9 @@ import resolveurl as urlresolver
 resolved = urlresolver.resolve(url)
 
 <item>
-<title>[B]pixeldrain[/B]</title>
+<title>[B]Vidia[/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w342/9NkIvN0A602Y4Ewa2h2dHSl8n9A.jpg</thumbnail>
-<link>https://pixeldrain.com/api/file/hY6Tqjnc</link>
+<link>https://supp2.filescdn.co/dcpxk6xatju5aueyi5ljc65awnsvde27urbv6rqgzy77vfyryn37rbtnbm4q/bj8m3n.mp4</link>
 <fanart>https://lovingnewyork.com.br/wp-content/uploads/2016/01/Dollarphotoclub_93398145.jpg</fanart>
 <genre>[COLOR green]Drama, Suspense[/COLOR]</genre>
 <info>[B]Sinopse:[/B]
