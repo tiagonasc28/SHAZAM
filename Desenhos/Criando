@@ -1,14 +1,10 @@
-import resolveurl as urlresolver
-resolved = urlresolver.resolve(url)
-
 <item>
-<title>[B]Vidia[/B]</title>
-<thumbnail>https://image.tmdb.org/t/p/w342/9NkIvN0A602Y4Ewa2h2dHSl8n9A.jpg</thumbnail>
-<link>https://supp2.filescdn.co/dcpxk6xatju5aueyi5ljc65awnsvde27urbv6rqgzy77vfyryn37rbtnbm4q/bj8m3n.mp4</link>
-<fanart>https://lovingnewyork.com.br/wp-content/uploads/2016/01/Dollarphotoclub_93398145.jpg</fanart>
-<genre>[COLOR green]Drama, Suspense[/COLOR]</genre>
-<info>[B]Sinopse:[/B]
-</info>
+<title>[B][COLOR gold]Episódio 1[/COLOR][/B]</title>
+<thumbnail>https://image.tmdb.org/t/p/original/czVjj5W113Aggz8fmtiW5bY1Vsz.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fOdbXYcLTthRYlOA77LkKI9fxu3.jpg</fanart>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bp_JbRckwT8cJYtNyIoWavb2FoIankjE/view?usp=drivesdk</link>
+<info>[B]SINOPSE: [/B]
+A origem de Alfred, o famoso mordomo de Bruce Wayne, em uma época onde ele era apenas um soldado britânico de 22 anos do Serviço Aéreo Especial do Reino Unido. Na Londres de 1960, Alfred é contratado para trabalhar como segurança do bilionário Thomas Wayne, e os dois tornam-se amigos improváveis.</info>
 </item>
 
 <item>
