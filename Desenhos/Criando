@@ -8,9 +8,9 @@ A origem de Alfred, o famoso mordomo de Bruce Wayne, em uma época onde ele era 
 </item>
 
 <item>
-<title>[B]Vidlox[/B]</title>
+<title>[B]preview[/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w342/9NkIvN0A602Y4Ewa2h2dHSl8n9A.jpg</thumbnail>
-<link>https://c19.vidlox.me/hls/oudvhf7tw5tpvpaxv4r6svbslnjyaogntafbvt3lspy25b2v3ramvf7mgoda/index-v1-a1.m3u8</link>
+<link>https://drive.google.com/file/d/121lhhByDoRUe7uXt4FgnQL138KL1i2Ix/preview</link>
 <fanart>https://lovingnewyork.com.br/wp-content/uploads/2016/01/Dollarphotoclub_93398145.jpg</fanart>
 <genre>[COLOR green]Drama, Suspense[/COLOR]</genre>
 <info>[B]Sinopse:[/B]
@@ -20,7 +20,7 @@ A origem de Alfred, o famoso mordomo de Bruce Wayne, em uma época onde ele era 
 <item>
 <title>[B]Youdbox[/B]</title>
 <thumbnail>https://image.tmdb.org/t/p/w342/9NkIvN0A602Y4Ewa2h2dHSl8n9A.jpg</thumbnail>
-<link>https://bin4.youdbox.com/d/jwwrvzbixpta73jsfcnio34mo67ktpyxb3bg4mtdw3un3p5swdllojs3kikrcdakfpf2xzit/video.mp4</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/121lhhByDoRUe7uXt4FgnQL138KL1i2Ix/view</link>
 <fanart>https://lovingnewyork.com.br/wp-content/uploads/2016/01/Dollarphotoclub_93398145.jpg</fanart>
 <genre>[COLOR green]Drama, Suspense[/COLOR]</genre>
 <info>[B]Sinopse:[/B]
