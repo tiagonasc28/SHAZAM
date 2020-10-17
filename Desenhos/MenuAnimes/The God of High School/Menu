@@ -1,7 +1,7 @@
 <item>
-<title>[B]1ª Temporada[/B]</title>
+<title>[B][COLOR gold]1ª Temporada[/COLOR][/B]</title>
 <thumbnail>CAPA</thumbnail>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINK?usp=drivesdk</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINK</link>
 <fanart>https://lovingnewyork.com.br/wp-content/uploads/2016/01/Dollarphotoclub_93398145.jpg</fanart>
 <genre>[COLOR green]Comédia[/COLOR]</genre>
 <info>[B]Sinopse:[/B]
@@ -11,7 +11,7 @@
 <item>
 <title>[B]Episodio 1[/B]</title>
 <thumbnail>CAPA</thumbnail>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1U2SzkgfhsmO-EhonHec_mCCFdx6R_8uY/view?usp=drivesdk</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1U2SzkgfhsmO-EhonHec_mCCFdx6R_8uY/view</link>
 <fanart>https://lovingnewyork.com.br/wp-content/uploads/2016/01/Dollarphotoclub_93398145.jpg</fanart>
 <genre>[COLOR green]Comédia[/COLOR]</genre>
 <info>[B]Sinopse:[/B]
